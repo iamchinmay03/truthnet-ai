@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: truthnet-backend
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: sqlite:///./truthnet.db
+      APP_ENV: production
+    volumes:
+      - ./backend:/app
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: truthnet-frontend
+    ports:
+      - "5173:5173"
+    environment:
+      VITE_API_URL: http://localhost:8000
+    depends_on:
+      - backend
+
+  db:
+    image: postgres:16-alpine
+    container_name: truthnet-db
+    environment:
+      POSTGRES_DB: truthnet
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"

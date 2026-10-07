@@ -1,0 +1,801 @@
+source_id,label,statement,subject,speaker,party,source_split
+7022.json,half-true,Women in Barack Obamas White House are earning less than men.,"jobs,women",mitt-romney,republican,train
+3687.json,false,"Says judges are using Shariah law in Dearborn, Mich.",religion,leo-berman,republican,train
+532.json,false,We must deal with the here and now and assure affordable fuel for America by increasing domestic production.,energy,john-mccain,republican,train
+12016.json,barely-true,Says Donald Trump bans disabled veterans from his high rise.,veterans,conservative-solutions-pac,organization,train
+5234.json,true,"A typical married couple will contribute $119,000 into Medicare but will receive $357,000 in Medicare benefits over their lifetimes.","corrections-and-updates,deficit,health-care,medicare",bob-corker,republican,train
+11667.json,barely-true,Says 25 percent of U.S. Muslims agreed that violence against Americans here in the United States is justified as a part of the global jihad.,"islam,polls,religion,terrorism",donald-trump,republican,train
+11321.json,false,Says that President Barack Obama said an attack on Syria was going to be a pinprick.,"foreign-policy,military",marco-rubio,republican,train
+8330.json,mostly-true,Up to half of all Americans have a pre-existing condition.,health-care,barack-obama,democrat,train
+4338.json,mostly-true,"Says enrolling a student in a subsidized lunch program triggers an at risk designation, resulting in an extra $6,000 to $7,000 of state school aid per student.","education,state-budget",michael-doherty,republican,train
+3516.json,mostly-true,In three years we could find close to 50 million gallons per day through a toilet replacement program.,"environment,water",sally-bethea,none,train
+2129.json,half-true,"For every dollar we put in unemployment, it pays back about $1.60.","economy,stimulus",jeanne-shaheen,democrat,train
+13188.json,false,10 cents on thedollar from the Clinton Foundation goes to charitable causes.,candidates-biography,mike-pence,republican,train
+4521.json,half-true,"Because of Jim Whelan, the 1990s are the only decade since the 1920s when the population of Atlantic City actually went up.",gambling,jim-whelan,democrat,train
+2026.json,true,Floridas high school graduation rate falls well below the national average.,education,alex-sink,democrat,train
+2569.json,half-true,Groups that receive foreign money are spending huge sums to influence American elections.,"campaign-finance,corporations,abc-news-week",barack-obama,democrat,train
+4657.json,mostly-true,"Says if you are shot in the city of Newark, you have over an 80 percent chance that youve been arrested before an average of 10 times.","crime,criminal-justice,guns",cory-booker,democrat,train
+1442.json,true,President Obama's proposed 'spending freeze' will only reduce the $42 trillion in government spending proposed between 2011 and 2020 by little more than one-half of 1 percent.,"economy,federal-budget",john-boehner,republican,train
+8788.json,true,"The General Assembly has no explicit constitutional authority to impose income, sales, estate and the myriad of other taxes upon us.","history,taxes",nicholas-gorham,republican,train
+6348.json,false,FCAT tests account for less than 1 percent of the instructional time provided during the year.,"children,corrections-and-updates,education",gerard-robinson,republican,train
+7307.json,mostly-true,"Since last years address, more than 10,000 jobs created -- many on the high end of the employment scale.",jobs,nathan-deal,republican,train
+2360.json,half-true,"I can put 10,000 people to work. Electricians, plumbers, sheet metal workers -- by retrofitting all of the state buildings for energy independence or efficiency.",energy,roy-barnes,democrat,train
+4033.json,half-true,Says the 2012-13 state budget leaves $6 billion in a rainy day fund.,"state-budget,state-finances",rick-perry,republican,train
+9710.json,false,"So many people were critical of Secretary (John) Kerry going to Paris and talking with Hamas, because Kerry was seen as supporting Hamas to the exclusion of the Arab League.","foreign-policy,israel",greta-van-susteren,none,train
+10197.json,false,"The proposed mine in northern Wisconsin would be built without any government oversight, and will be nine miles long.","economy,environment,jobs",bob-seger,none,train
+4076.json,barely-true,Newt Gingrichs presidential campaign has exactly the same challenges as Ronald Reagans successful 1980 bid.,history,newt-gingrich,republican,train
+8977.json,false,Says Debo Adegbile was nominated to serve as a judge on the U.S. Circuit Court of Appeals and was abruptly withdrawn by the administration.,"criminal-justice,supreme-court",pat-toomey,republican,train
+1130.json,true,"The health care plan for members of Congress ""is no better than the janitor who cleans their offices.""",health-care,barack-obama,democrat,train
+3391.json,half-true,"Says Sen. Sherrod Brown admitted that his $787 billion stimulus law failed and after specifically attacking Republicans for wanting to lower Americans taxes, (he) now claims that his stimulus bill didnt do enough to lower taxes.","stimulus,taxes",national-republican-senatorial-committee,republican,train
+13166.json,barely-true,"The Great Recession emerged in large part because of tax policies that slashed taxes on the wealthy, failed to invest in the middle class, took their eyes off of Wall Street, and created a perfect storm.","economy,financial-regulation,history,taxes",hillary-clinton,democrat,train
+12306.json,false,"I was totally against the war in Iraq, saying for many years that it would destabilize the Middle East.","foreign-policy,iraq",donald-trump,republican,train
+1972.json,pants-fire,Justice Antonin Scalia agreed for the Supreme Court to hear a case about whetherBarack Obama is eligible to be President.,"candidates-biography,obama-birth-certificate,supreme-court",chain-email,none,train
+13471.json,mostly-true,California has seen a 56 percent decline in the gun murder rate since the 1990s.,"crime,elections,guns",gavin-newsom,democrat,train
+13389.json,half-true,Joe Morrissey has been a delegate in the General Assembly for eight years with no laws passed to help our black community with education or workforce.,job-accomplishments,michelle-mosby,democrat,train
+11712.json,false,Says he faced a record budget deficit in Virginia in 2014.,state-budget,terry-mcauliffe,democrat,train
+3452.json,mostly-true,"According to 2009 estimates, an agreement with Panama could result in almost 1,900 Florida jobs in thefirst year and about 15,000 jobs afterfive years.","jobs,trade",rick-scott,republican,train
+7586.json,half-true,"A study by the University of Virginia pulls back the curtain on Medicaids tragically bad outcomes, including increased risk of adjusted mortality.","health-care,medicaid",pete-snyder,republican,train
+8774.json,mostly-true,"Today, our unemployment rate is 7.8 percent. That is the lowest in five years.",jobs,chris-christie,republican,train
+10889.json,true,"For the first time in 35 years, we have more businesses dying than we do starting.","economy,small-business",marco-rubio,republican,train
+2726.json,half-true,"Stabilizing the recent financial crisis will cost less than 1 percent of GDP, which is less than the 2.5 percent to fix the savings and loan crisis of the 1980s.","bankruptcy,economy,federal-budget,financial-regulation,job-accomplishments,market-regulation",barack-obama,democrat,train
+5377.json,mostly-true,"Says the federal government could save $175,587 by eliminating a study of the connection between cocaine and risky sex habits of the Japanese quail.","drugs,federal-budget,health-care,sexuality",mark-neumann,republican,train
+4096.json,mostly-true,"Since President Obama took office, 2 million jobs. Gone.","economy,jobs,message-machine",republican-national-committee-republican,republican,train
+12884.json,mostly-true,Half of all NC legislative candidates are unopposed because of gerrymandering.,"elections,legal-issues,redistricting,states",common-cause,organization,train
+2188.json,half-true,People come here to have babies. They come here to drop a child. Its called drop and leave.,"health-care,immigration,legal-issues",lindsey-graham,republican,train
+1288.json,barely-true,"A new federal program provides subsidized ""Obama phones"" with 70 free minutes of cell phone service every month.","poverty,taxes",chain-email,none,train
+2978.json,true,Texas children may have a teacher who never spent one minute practicing teaching.,education,mike-villarreal,democrat,train
+599.json,true,I have repeatedly said that many of the predatory loans that were made in the mortgage system did target African-American and Latino communities.,economy,barack-obama,democrat,train
+3967.json,half-true,Says former Miami-Dade Mayor Carlos Alvarez and current mayoral candidate Carlos Gimenez both drove fancy European cars at taxpayer expense.,candidates-biography,accountability-project,none,train
+3779.json,half-true,750 days since Bill Nelson the Democrats in the Senate passed a budget. How can this be justified?,federal-budget,george-lemieux,republican,train
+1765.json,false,"For the new state budget, ""Floridians have sent us $3 billion less of their funding.""","state-budget,taxes",anitere-flores,republican,train
+3569.json,false,There was some sort of informal commitment to build a (psychiatric) building in downtown Cleveland.,state-budget,john-kasich,republican,train
+9557.json,false,Says Hillary Clintons health care plan from the 1990s had a broader provision in favor of corporate right to back out of providing contraceptive coverage than the one created by the Hobby Lobby Supreme Court decision.,"abortion,congress,corporations,health-care,religion,sexuality,supreme-court",newt-gingrich,republican,train
+9706.json,pants-fire,This administration is slashing the Navy to pay for more Obamacare.,"health-care,message-machine-2014,military",ed-gillespie,republican,train
+10587.json,barely-true,The governor must inform the Senate president about his or her absence from the state.,"government-efficiency,legal-issues",jennifer-horn,republican,train
+13426.json,mostly-true,Says Nevadans will have a double-digit hike in their Obamacare premiums for the year and 10 of Nevadas 16 counties will only have one Obamacare...exchange insurer,health-care,donald-trump,republican,train
+708.json,half-true,I fought to bring about the largest private-sector infrastructure project in North American history.,energy,sarah-palin,republican,train
+10624.json,mostly-true,"Says Secretary of State John Kerry, when he was a senator, flew to Managua and met with a communist dictator there, Daniel Ortega, and accused the Reagan administration of engaging in terrorism.","foreign-policy,history,terrorism",mitch-mcconnell,republican,train
+6965.json,true,Says fewer than 30 percent of Texas college students graduate in four years and only 58 percent graduate within six years.,education,rick-perry,republican,train
+2332.json,barely-true,Milwaukee Mayor Tom Barrett has held the line on property taxes.,"job-accomplishments,taxes",barack-obama,democrat,train
+7614.json,false,Expanding Medicaid will worsen health care options for the most vulnerable among us in Texas.,"health-care,medicaid,poverty",ted-cruz,republican,train
+4397.json,half-true,We [the city of Atlanta] are overbuilt on housing.,housing,yolanda-adrean,none,train
+1895.json,barely-true,"Of hospitals in Rick Scotts Columbia/HCA health care company, ""A top executive said they even turned away a poor man and left him to die outside their door.""","health-care,message-machine",florida-first-initiative,none,train
+10958.json,mostly-true,The gap between the very rich and everyone else in America is wider today than at any time since the 1920s.,"economy,income",bernie-s,independent,train
+4546.json,false,"An Environmental Protection Agency regulation that goes into effect Jan. 1, 2012, regulates dust.",environment,herman-cain,republican,train
+2873.json,half-true,Says the Texas House has a record number of new members joining our ranks.,"elections,states",joe-straus,republican,train
+127.json,half-true,"First, he said he would take all of our troops out in six months, and now he acknowledges it would take a year.",iraq,joe-biden,democrat,train
+4010.json,barely-true,"(Birmingham, Ala.) is the cradle of the civil rights movement.","civil-rights,history",al-roker,none,train
+5955.json,barely-true,Obamacare could cause 20 million people to lose their current coverage.,"health-care,message-machine-2012",us-chamber-commerce,none,train
+3658.json,pants-fire,President Obama was raised Muslim.,religion,gordon-robertson,republican,train
+6618.json,half-true,"Says MittRomneys tax plans would give an additional $250,000 tax cut to millionaires and billionaires while raising taxes on the middle class.",taxes,ted-strickland,democrat,train
+5513.json,mostly-true,"It costs about $40,000 a year for a homeless person to be on the streets.",poverty,shaun-donovan,democrat,train
+13343.json,false,Says Ron Johnson has essentially done nothing to fight heroin addiction and opioid abuse.,"candidates-biography,drugs,homeland-security,immigration",russ-feingold,democrat,train
+6082.json,mostly-true,"Giving the facts: 73,000 jobs created ... since 11. Do you know how many direct jobs in the auto industry? 1,800.","economy,jobs",john-kasich,republican,train
+12182.json,half-true,The rate of uninsured Americans (is) 8.8 percent.,health-care,barack-obama,democrat,train
+8006.json,false,Miami-Dade has the nations highest-rated tap water.,"county-budget,environment,water",miami-dade-county,none,train
+5549.json,barely-true,"Because of the new health care law, 17 million kids can no longer be denied for a pre-existing condition.","health-care,job-accomplishments,message-machine-2012",barack-obama,democrat,train
+4115.json,barely-true,"Under Ryan plan,those 54 and younger would receive the same kind of healthcare options now enjoyed by members of Congress.","health-care,medicare",scott-rigell,republican,train
+10635.json,mostly-true,The average faculty member at UW-Madison brings in close to a quarter million dollars a year in grant money.,"education,state-budget",peter-barca,democrat,train
+6868.json,half-true,"In Romneys first budget (in Massachusetts), he cut $248.7 million from K-12 education.","candidates-biography,education,state-budget",barack-obama,democrat,train
+9302.json,mostly-true,Says U.S. Senate candidate David Perdue flip-flopped on releasing his tax returns.,taxes,karen-handel,republican,train
+13136.json,true,"According to independent experts, Donald Trumps tax plan would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy.","debt,deficit,taxes",hillary-clinton,democrat,train
+7130.json,half-true,The Broward Republican Executive Committee had the liberal League of Women Voters Guide removed from the Broward Supervisor of Elections website.,elections,broward-republican-executive-committee,republican,train
+4248.json,barely-true,The debt-ceiling bill doesnt cut the debt. It will add about $7 trillion in new debt over the next 10 years.,"deficit,federal-budget",jim-demint,republican,train
+4753.json,mostly-true,Today 46 percent of all Floridians owe more on their home than it is worth.,"economy,housing",rod-smith,democrat,train
+5053.json,half-true,Says he has been able to attract independents and Democrats to win elections in Pennsylvania.,"candidates-biography,elections,history",rick-santorum,republican,train
+11217.json,pants-fire,"Says Michele Bachmann said, The Chinese built a Great Wall 5,000 years ago. You dont see any illegal Mexicans in China.",immigration,facebook-posts,none,train
+12967.json,half-true,"Says in Washington, D.C., Sen. Richard Burr took millions from special interests, went there and cashed in, voted to cut (his) own taxes and raise taxes on working folks.","campaign-finance,candidates-biography,congress,taxes,workers",deborah-ross,democrat,train
+12624.json,barely-true,"During the (Benghazi) attack, a stand-down order was given, and our troops were told to change their clothes four times.","foreign-policy,history,military,pundits,terrorism",sean-hannity,none,train
+10258.json,half-true,"Citing his efforts to secure the border, Obama said, Overall, the number of people trying to cross our border illegally is the lowest it has been since the 1970s.",immigration,barack-obama,democrat,train
+12931.json,pants-fire,I am the only candidate who ran in either the Democratic or the Republican primary who said from the very beginning (that) I will not raise taxes on the middle class.,"income,taxes",hillary-clinton,democrat,train
+1870.json,true,Fulton County has successfully reduced the number of pregnancies among 15- to 19-year-olds.,women,fulton-county-government,none,train
+11501.json,false,92 percent of the jobs lost during Barack Obamas first term belonged to women.,"jobs,women",carly-fiorina,republican,train
+6166.json,true,"As Massachusetts governor, Mitt Romney used a line-item veto to cut millions of dollars for firefighting equipment, including firefighters coats, pants, helmets and boots.","candidates-biography,labor,public-safety,state-budget,unions,workers",mahlon-mitchell,democrat,train
+5613.json,true,The poorest in this country are women.,"families,poverty,women",marcy-kaptur,democrat,train
+8602.json,barely-true,President Barack Obama has the power to stop deportation for all undocumented immigrants in this country.,immigration,obamas-heckler,none,train
+6806.json,half-true,Says it will cost $220 per square foot in hard construction costs to rebuild Portland Public high schools.,"education,message-machine-2012",our-portland-our-schools,organization,train
+10236.json,pants-fire,Austin mayoral candidate Steve Adler has never been active in anything that has to do with City Hall.,"candidates-biography,city-government,crime,criminal-justice",mike-martinez,democrat,train
+3105.json,mostly-true,Poll results from the past 35 years show that State of the Union speeches do not move presidential approval numbers.,"history,polls,abc-news-week",matthew-dowd,independent,train
+1562.json,true,The Florida Legislature raised taxes and fees by almost $2 billion in the 2009 session.,"economy,taxes",charlie-justice,democrat,train
+7697.json,false,Abortionists have reduced our black population by more than 25 percent since 1973.,abortion,charles-van-zant,republican,train
+3835.json,pants-fire,House Republicans required the use of Styrofoam cups in House cafeterias that are part of Koch Industries.,congressional-rules,jim-moran,democrat,train
+10274.json,half-true,The number of killings of citizens by police is at a two-decade high.,"crime,criminal-justice",marc-morial,democrat,train
+4908.json,mostly-true,"Says that as Wisconsin governor, we ended welfare.","job-accomplishments,welfare",tommy-thompson,republican,train
+12997.json,half-true,Says Gov. Pat McCrory tried to cut education funding to its lowest budget share in over 30 years.,"candidates-biography,education,campaign-advertising,state-budget,states",roy-cooper,democrat,train
+7232.json,true,"A far different picture from the prior eight years, which saw 115 increases in taxes and fees.",taxes,chris-christie,republican,train
+1040.json,true,"President Obama will now own 60 percent of GM, and his union buddies will own almost 20 percent.","bankruptcy,market-regulation",michael-steele,republican,train
+12753.json,mostly-true,"Says Hillary Clinton supported North American Free Trade Agreement), and she supported Chinas entrance into the World Trade Organization. She supported the job-killing trade deal with South Korea. She supported the Trans-Pacific Partnership.","candidates-biography,trade",donald-trump,republican,train
+4053.json,half-true,"If you look at our tax mix, the share of corporate revenues as a percentage of our overall revenue mix has declined by about half over the last 30 years.","corporations,deficit,federal-budget,taxes",mark-warner,democrat,train
+11492.json,false,Paul Ryan is one of only six House Republicans who voted for Teddy Kennedys bill to force Christian employers to hire LGBT employees.,"civil-rights,gays-and-lesbians,religion,workers",constitutional-rights-pac,organization,train
+4075.json,false,Says legislative debate of airport pat-down procedures initiated federal changes in security procedures.,"homeland-security,transportation",rick-perry,republican,train
+9478.json,false,ISIS leader Abu Bakr al Baghdadi was released by Obama in 2009.,"iraq,terrorism",jeanine-pirro,republican,train
+6019.json,barely-true,Says the Affordable Care Act was a federal takeover of the student loan industry and profits on the loans go to help pay for the health care law.,"corrections-and-updates,education,federal-budget,health-care",kelly-ayotte,republican,train
+5394.json,half-true,"[W]hen adjusted for cost of living, Georgia ranks first nationally in teacher salary and benefits.","education,state-finances",jan-jones,republican,train
+2789.json,false,Were the only system of federalism in the world.,"health-care,history,states",pam-bondi,republican,train
+3451.json,half-true,"If you look at the jobs lost in the private sector as opposed to the job gains in the public sector, its out of whack. The governments growing and the private economys shrinking.","economy,government-efficiency,jobs",steve-latourette,republican,train
+3171.json,pants-fire,"Says getting ex-cons to successfully return to society is important so we are not always faced constantly with recidivism, which is a big problem in the penitentiary today in the 70 to 80 percent range.","crime,criminal-justice,state-budget",bill-batchelder,republican,train
+5745.json,half-true,"The 30 percent tax rate called for under President Barack Obamas proposed Buffett Rule is lower than the prescribed tax rate for millionaires already -- not just for millionaires, for people making over $200,000.",taxes,joe-biden,democrat,train
+4089.json,barely-true,"Because of Democratic tax hikes, New Jersey ended a decade with fewer private sector jobs for the first time in recorded history.","jobs,taxes",steve-oroho,republican,train
+4879.json,true,"The balanced-budget amendment once came within one vote of passing Congress but was defeated because of the no vote from a top Senate Republican, and Rick Santorum says he stood up and called for him to resign his chairmanship.","federal-budget,new-hampshire-2012",rick-santorum,republican,train
+6614.json,true,Says a federal judge sanctions Tennessee birther lawyer for bringing a frivolous lawsuit.,obama-birth-certificate,tennessee-democratic-party,democrat,train
+6242.json,false,Says New Jerseys tenure law has now been reformed to say that if teachers get two years of partially effective or ineffective ratings they lose tenure.,education,chris-christie,republican,train
+1496.json,pants-fire,"The stimulus bill ""didnt create one new job.""","stimulus,workers",scott-brown,republican,train
+1392.json,pants-fire,Says Land Commissioner Jerry Patterson threatened to shoot him.,guns,hector-uribe,democrat,train
+6591.json,half-true,"In Massachusetts under Mitt Romney, unemployment went down, household incomes went up, and the state saw its credit rating upgraded.","candidates-biography,state-budget,state-finances",paul-ryan,republican,train
+9493.json,true,Says Central Texas river water sent to downstream rice farmers in 2011 equaled about three years worth of Austins water use.,water,austin-water-utility,none,train
+11110.json,barely-true,"Says under his leadership Wisconsin median household income is up 2.7%, while it is down 1.3% nationally under President Obama.","economy,income,job-accomplishments",scott-walker,republican,train
+4685.json,true,On using Gov. Scott Walkers collective-bargaining limits to help balance the city of Milwaukee budget,"city-budget,labor,state-finances",tom-barrett,democrat,train
+11597.json,barely-true,"There is currently no ability to vet these people, referring to Syrian refugees.","foreign-policy,homeland-security,immigration,terrorism",ben-carson,republican,train
+2324.json,pants-fire,80 to 85 percent of my campaign funds go to donations to various organizations throughout the City of Providence.,"campaign-finance,candidates-biography",john-lombardi,democrat,train
+5351.json,false,You cant pass a budget in the Senate of the United States without 60 votes.,"congressional-rules,federal-budget",jack-lew,democrat,train
+7686.json,mostly-true,The Boston Marathon bombing is the fifth case in which U.S. government officials examined individuals potentially involved in terrorism and felt they were no threat and they went on to carry out terrorist murders.,terrorism,peter-king,republican,train
+6785.json,half-true,Says Ronald Reagan was behind in the polls in 1980 going into the debate with Jimmy Carter and then turned around 10 days later and won 40 states.,"elections,polls",chris-christie,republican,train
+10169.json,barely-true,Republicans are trying to impeach our president.,"congress,message-machine-2014",color-change,activist,train
+4035.json,mostly-true,"Since I took office, weve created 76,800 jobs.",jobs,rick-scott,republican,train
+12289.json,true,A tax on soda and juice drinks would disproportionately increase taxes on low-income families in Philadelphia.,taxes,bernie-s,independent,train
+12462.json,half-true,Florida has issued more than 3 million conceal carry permits in the past 30 years. Only 168 have been revoked.,guns,donald-trump,republican,train
+4114.json,half-true,"Our countrys got this huge debt, and (President Barack) Obama says raise taxes and keep spending more.","deficit,economy,federal-budget,taxes",crossroads-gps,republican,train
+98.json,true,"With those first principles, it allowed a fellow like me to get in his truck and go from one end of the state to the other; started 20 points down and wound up 20 points ahead on election night.",elections,fred-thompson,republican,train
+1792.json,mostly-true,"Says that when he first ran for office in the late 1980s, there were still folks who didnt have phone service. Soon Id helped ensure that everyone in North Florida could access a dial tone.","elections,message-machine",allen-boyd,democrat,train
+11112.json,true,Says Donald Trump has supported a Canadian-style universal health care system.,elections,erick-erickson,republican,train
+6800.json,false,"Says 7,000 millionaires gamed the system to pay no income taxes.","federal-budget,income,taxes",tammy-baldwin,democrat,train
+12307.json,mostly-true,"Says an array of statistics show that conditions in some parts of Baltimore rival that of the West Bank in Palestine, North Korea, and distressed cities in Nigeria, India, China and South Africa.","poverty,public-health",bernie-s,independent,train
+9243.json,pants-fire,Over 300K home owner suicides attributed to foreclosures.,"economy,health-care,housing,public-health",facebook-posts,none,train
+9466.json,mostly-true,Thousands of Westerners and Americans are fighting with extremists in eastern Syria and Iraq.,"homeland-security,iraq,islam,military,terrorism",mike-rogers,republican,train
+13148.json,mostly-true,Maggie Hassan missed nearly every university system board meeting.,"education,voting-record",national-republican-senatorial-committee,republican,train
+13469.json,true,"Financial conflict-of-interest laws dont apply to the president, right? So, the president doesnt have to have a blind trust.","campaign-finance,ethics",rudy-giuliani,republican,train
+3517.json,true,The only segment in the beer market that is growing is the craft beer segment.,"Alcohol,market-regulation,small-business",mike-villarreal,democrat,train
+5102.json,barely-true,"When Georgia tightened its voter identification laws, the state sent a van and photographer to the homes of people who needed photo IDs and made them for free.","civil-rights,elections",phil-gingrey,republican,train
+1437.json,half-true,"The amount of debt is on pace to double in five years and triple in 10. The federal debt is now over $100,000 per household.",federal-budget,bob-mcdonnell,republican,train
+4500.json,false,Says he got lobbied by a woman with late-stage cancer about vaccinating Texas girls against a virus that can cause cervical cancer.,"health-care,public-health",rick-perry,republican,train
+8172.json,true,We now sell more products made in America to the rest of the world than ever before.,"corrections-and-updates,trade",barack-obama,democrat,train
+2387.json,barely-true,"DeWine took $1.9 million from big banks, supported legislation that helped Bernie Madoff make millions and protected predatory lenders while families lost their homes.","campaign-finance,economy,job-accomplishments",ohio-democratic-party,democrat,train
+1857.json,mostly-true,Two-thirds of the top-rated hospitals in Florida were our hospitals.,"health-care,message-machine",rick-scott,republican,train
+9097.json,barely-true,Americans increasingly want (the Affordable Care Act) to be repealed.,"health-care,polls",marco-rubio,republican,train
+12904.json,half-true,Says Donald Trump has a long history of exporting jobs overseas.,jobs,tammy-baldwin,democrat,train
+10229.json,mostly-true,"Repeal of Obamacare would take away health care for 10.3 million Americans who have received coverage since Oct. 1, 2013.",health-care,ed-schultz,none,train
+1037.json,barely-true,"In the 100 days since its passage, the economic stimulus has ""saved or created nearly 150,000 jobs.""","economy,stimulus,workers",barack-obama,democrat,train
+5376.json,false,On resigning from the Texas Railroad Commission.,elections,elizabeth-ames-jones,republican,train
+8012.json,mostly-true,Twenty-four percent of doctors in Virginia currently dont accept new Medicaid patients because the reimbursement rates are so low.,"health-care,medicaid",dave-schwartz,republican,train
+10557.json,half-true,Says she has opposed measures to weaken the Dodd-Frank Wall Street regulatory bill and campaign-finance legislation when they were offered as stand-alone bills.,"congress,voting-record",ann-mclane-kuster,democrat,train
+3045.json,half-true,Saturdays shootings reflect a disturbing trend. Mass shootings have become commonplace since the Virginia Tech massacre in 2007. There have been dozens of incidents where three or more people have been fatally wounded. Hundreds have died.,"crime,criminal-justice,guns,pundits,abc-news-week",pierre-thomas,none,train
+5642.json,false,Medicare will be bankrupt in nine years.,medicare,pat-boone,none,train
+2521.json,false,On protecting Social Security benefits and changing the retirement age.,social-security,bob-gibbs,republican,train
+4629.json,mostly-true,"The city of Columbus would save $41 million a year if employees had to contribute to their own, guaranteed-check pensions.","jobs,labor,unions",dave-yost,republican,train
+3126.json,mostly-true,"Of the topfive cities for staged automobile accidents, three are in Florida. We rank No. 1 in the country in staged auto accidents.","consumer-safety,crime",jeff-atwater,republican,train
+5763.json,pants-fire,The ACLU has filed a suit to end prayer from the military completely.,"military,religion",chain-email,none,train
+10441.json,pants-fire,Documents released from the Soviet Union show the Soviet Union started treating President Ronald Reagan more seriously after Reagan fired the air traffic controllers.,"foreign-policy,history,labor,transportation,unions",scott-walker,republican,train
+5092.json,barely-true,Paul Ryans Medicare plan provides pretty much the same coverage that members of Congress receive.,"congress,medicare,new-hampshire-2012",rick-santorum,republican,train
+11522.json,false,Says his plan would cut taxes without increasing the deficit.,"federal-budget,taxes",donald-trump,republican,train
+4566.json,true,We have the highest corporate tax rate in the world. Its 35 percent.,"corporations,jobs,taxes",jim-sensenbrenner,republican,train
+529.json,mostly-true,McCain lobbied for (a) $10-million pork project honoring conservative justice.,federal-budget,barack-obama,democrat,train
+8389.json,true,Ninety six percent of employers in the Granite State are considered small businesses.,"congress,government-efficiency,government-regulation,small-business",jeanne-shaheen,democrat,train
+11417.json,half-true,Says as secretary of state she was reserving judgment about the Trans-Pacific Partnership and hoped it would be the gold standard.,trade,hillary-clinton,democrat,train
+13362.json,false,"When Trump wanted to turn a taxpayer-owned building into an $800 anight hotel, (Congressman Jeff Denham, R-CA) helped broker the deal and bragged about it.",elections,dccc-lgo,democrat,train
+2210.json,false,Theres still about $400 billion or $500 billion of the stimulus plan that has not been spent. Why dont we stop it.,"federal-budget,stimulus,taxes",john-boehner,republican,train
+11266.json,half-true,The nuclear agreement with Iran never sunsets. Theres no sunset in this agreement.,"foreign-policy,nuclear",john-kerry,democrat,train
+2006.json,mostly-true,President Barack Obama has deported more people in his first year in office than George W. Bush in his last year in office.,"immigration,legal-issues,abc-news-week",jorge-ramos,journalist,train
+5157.json,pants-fire,"When [Mitt Romney] was the governor of Massachusetts, he performed 100 and Im not sure this number is right, but my mind says its about 180 gay marriages.","gays-and-lesbians,marriage",judy-manning,republican,train
+4072.json,mostly-true,"By the end of his first term, President Obama will have added as much debt as all the prior 43 presidents combined.","federal-budget,new-hampshire-2012",mitt-romney,republican,train
+3086.json,mostly-true,The impact of the 2010 federal health care legislation will be huge on Georgia.,health-care,nathan-deal,republican,train
+6222.json,false,"Under the health care law, everybody will have lower rates, better quality care and better access.",health-care,nancy-pelosi,democrat,train
+3170.json,mostly-true,"Says that in Ohio right now, you could be 8 months pregnant and have an abortion for no reason.",abortion,lorraine-fende,democrat,train
+3182.json,true,Georgia has some of the best maintained roads in America.,transportation,vance-smith,republican,train
+3776.json,half-true,Gas prices have gone up $2 since Obama took office.,"energy,gas-prices",michael-williams,republican,train
+9638.json,false,"Last year, I was involved with an effort to to help prosecutors get their first pay raise in more than 10 years.","criminal-justice,job-accomplishments,state-budget,state-finances",jon-richards,democrat,train
+5293.json,false,Heres something that people never talk about with coach Schiano: Rutgers had the best graduation rate of any Division I football program in America.,"education,sports",chris-christie,republican,train
+4150.json,barely-true,Says stores will be barred from selling 100-watt light bulbs as of 2012.,energy,michael-burgess,republican,train
+2435.json,true,Theres a big chunk of the country that thinks that I have been too soft on Wall Street.,"corporations,economy,market-regulation",barack-obama,democrat,train
+7028.json,mostly-true,Bill Clinton presided over the biggest expansion of the American economy since World War II.,"economy,job-accomplishments",tim-kaine,democrat,train
+12046.json,false,Now we have ISIS coming over the (U.S.-Mexico) border.,terrorism,jeff-dewit,republican,train
+7731.json,barely-true,U.S. Sen. Lindsey Graham says South Carolina has a labor shortage and wants more immigration.,"immigration,jobs",dustin-inman-society,organization,train
+8633.json,half-true,FACT: Repealing Obamacare would be easier than repealing Prohibition.,"congressional-rules,health-care",heritage-foundation,none,train
+2.json,half-true,President Clinton reduced the scale of our military dramatically.,military,mitt-romney,republican,train
+4453.json,barely-true,The jobs bill includes President Obamas tax on soup kitchens,"economy,jobs,taxes,workers",eric-cantor,republican,train
+5284.json,mostly-true,"Says U.S. Senate Democrats have gone without any budget at all for more than 1,000 days.",federal-budget,paul-ryan,republican,train
+3616.json,true,Americas wealthiest 25 percent pay 86 percent of total income taxes. Wealthiest 5 percent pay 60 percent of total income taxes.,taxes,tom-graves,republican,train
+2598.json,barely-true,"Says state Rep. Patrick Rose votes 90 percent with liberals, backed the states largest tax increase, proposed nearly $15 billion in government spending and supported Obama-style government-run health care system for Texas.","candidates-biography,health-care,job-accomplishments,message-machine,state-budget,voting-record",jason-isaac,republican,train
+12757.json,mostly-true,"Nearly 180,000 illegal immigrants with criminal records, ordered deported from our country, are tonight roaming free to threaten peaceful citizens.",immigration,donald-trump,republican,train
+3986.json,pants-fire,Multnomah Countys food action plan clearly plans to disrupt the free market system in terms of food choices making it harder and more expensive for many residents to eat their food of choice.,"county-government,government-regulation",roxanne-ross,none,train
+10415.json,mostly-true,"If you ask how many times did Ronald Reagan attend a fundraiser when he ran for re-election in 1984, the answer is eight times. If you say how many times did Barack Obama attend a fundraiser in 2012, the answer is 228 times.",campaign-finance,lawrence-lessig,activist,train
+8502.json,mostly-true,The federal health care law raises taxes and cuts Medicare.,"health-care,medicare,taxes",scott-brown,republican,train
+3270.json,false,"Despite what you may have heard about Wisconsins finances, Wisconsin is on track to have a budget surplus this year.","labor,pundits,state-budget",rachel-maddow,none,train
+7299.json,barely-true,"Says Abortion clinics in Oregon, as in most states, have no state oversight and are not held to basic health or safety standards.",abortion,gayle-atteberry,activist,train
+10439.json,mostly-true,"Assault weapons and handguns are allowed in the state Capitol while bullhorns, trumpets, helium balloons and flags on poles are banned.",guns,virginia-house-democratic-caucus,democrat,train
+400.json,false,Both McCain and Bush favor tax breaks for oil companies.,energy,campaign-defend-america,none,train
+10729.json,mostly-true,"When the Constitution was written, (only) 20 to 25 percent of the people in the country could vote.","elections,history",mark-pocan,democrat,train
+11578.json,barely-true,"Out of the total U.S. military budget, significantly less than 10 percent of that money is used to fight international terrorism.","military,terrorism",bernie-s,independent,train
+4933.json,false,Our federal government has lent $2 billion to the state-owned oil company of Brazil to allow them to explore for oil and gas.,"energy,foreign-policy,trade",george-allen,republican,train
+6619.json,false,"We will spend $100 billion in Afghanistan this year, fixing roads, building bridges, training police officers, and more, [and] cutting the same things in our own country.","afghanistan,deficit,federal-budget,infrastructure,military",david-cicilline,democrat,train
+11137.json,true,"Since Volvo spurned Georgia for South Carolina in early May, some 3,455 jobs promising more than $800 million in investments have come to the Peach State.","jobs,states",chris-riley,republican,train
+10100.json,barely-true,This (Ebola) is not as bad as SARSwas in 2003.,"ebola,health-care,public-health",tavis-smiley,none,train
+2593.json,false,"Loranne Ausleys a financial train wreck for taxpayers -- pushing gas taxes, property taxes, taxes on seniors.","message-machine,taxes",jeff-atwater,republican,train
+8641.json,mostly-true,One-third of all bank tellers (are) on public assistance.,"economy,financial-regulation,poverty,workers",james-carville,democrat,train
+8092.json,half-true,"Government subsidies for renewable energies such as wind and solar are 100 times greater than those given to gas and coal, and 50 times greater than what the nuclear industry enjoys.",energy,tom-fanning,none,train
+10768.json,false,"About half of the presidents have been governors; half of them, senators.","congress,corrections-and-updates,elections,history,states",ted-cruz,republican,train
+9251.json,mostly-true,Up to 45 percent of illegal immigrants are not people that physically crossed the southern border or northern border. They are visa overstayers.,immigration,julian-castro,democrat,train
+7844.json,pants-fire,The National Rifle Association was founded by religious leaders who wanted to protect freed slaves from the Ku Klux Klan.,"civil-rights,guns,religion",harry-alford,business-leader,train
+1736.json,mostly-true,What the Arizona law does is make a state crime out of something that already is... a federal crime.,immigration,george-will,columnist,train
+3389.json,half-true,"Says Rick Scotts proposed budget would lay off 20,000 teachers.","education,state-budget",rod-smith,democrat,train
+9182.json,barely-true,More 25- to 34-year-olds are moving to Austin than any other city in America.,"census,population",will-wynn,democrat,train
+3338.json,mostly-true,Says the high-speed rail project provides short-term jobs.,"jobs,stimulus,transportation",rick-scott,republican,train
+9813.json,true,The No. 1 cause of death for African-American males15-34 is murder.,"crime,criminal-justice",juan-williams,none,train
+11130.json,false,"Says his political opponents brought 100,000 protesters into our state.","government-regulation,job-accomplishments,labor,state-budget,unions,workers",scott-walker,republican,train
+93.json,true,Social Security ... is solid through about 2040 without any changes whatsoever.,federal-budget,dennis-kucinich,democrat,train
+8298.json,false,"More than 400 car crashes occur each year on the current, congested Columbia River Bridge.","infrastructure,transportation",dennis-richardson,republican,train
+8824.json,half-true,"Says in 2000, Fox News broke the story of George W. Bushs drunk driving arrest. Who broke it? Fox News.",bush-administration,ann-coulter,republican,train
+12488.json,barely-true,Says Merrick Garland authored an opinion that resulted in the release of 17 Guantanamo Bay prisoners who were part of a group of violent Islamist extremists the State Department had designated as terrorists.,"foreign-policy,military,supreme-court,terrorism",pat-toomey,republican,train
+12790.json,half-true,"Kim Myers voted repeatedly to raise taxes on the people of Broome County, but made millions off of tax savings when her family business relocated its headquarters.",taxes,claudia-tenney,republican,train
+6105.json,barely-true,Says he has nearly 200 delegates bound to support his candidacy at the Republican National Convention.,candidates-biography,ron-paul,republican,train
+11495.json,mostly-true,"My campaign finished the last quarter reporting the most cash on hand of any Republican in the field $13.8 million in the bank, $3.5 million more than the Jeb Bush campaign.",campaign-finance,ted-cruz,republican,train
+1398.json,false,Says Kay Bailey Hutchison voted for sanctuary cities.,immigration,rick-perry,republican,train
+1521.json,mostly-true,"The CBO found that the House Republican health care plan would lower premiums by ""up to about 10 percent"" and, for purchasers in the individual market, ""those cost savings could even be higher.""",health-care,charles-boustany,republican,train
+12724.json,barely-true,"In 2010, Clinton said Iran could enrich uranium. In 2014 she said shes always argued against it.",foreign-policy,mitch-mcconnell,republican,train
+9665.json,half-true,Brookhaven homeowners pay hundreds of dollars less in property taxes compared with owners of the same-value homes in unincorporated DeKalb County.,taxes,city-brookhaven,none,train
+838.json,half-true,We are within the margin of error.,elections,john-mccain,republican,train
+5299.json,false,Says she wiped out the state Agriculture Departments inspections of eggs at retail sites like grocery stores.,"agriculture,market-regulation",susan-combs,republican,train
+8054.json,pants-fire,"Says an investigative report concluded Ken Cuccinelli should have been prosecuted for disclosure violations, but Virginias law was too weak.",ethics,terry-mcauliffe,democrat,train
+2306.json,mostly-true,"Forty-five percent of those whove been unemployed, theyve been unemployed for six months or longer.","economy,pundits,abc-news-week,workers",donna-brazile,democrat,train
+785.json,true,"Two years ago...I wrote to Secretary Paulson, I wrote to Federal Reserve Chairman Bernanke, and told them [subprime lending] is something we have to deal with.",economy,barack-obama,democrat,train
+3248.json,mostly-true,"Says there are Ohio Turnpike workers getting paid $66,000 a year to collect tolls that machines might collect.","government-efficiency,state-budget",john-kasich,republican,train
+9687.json,mostly-true,"Says Rep. Bruce Braley, D-Iowa, missed 79 percent of veterans affairs committee hearings.","congress,veterans",concerned-veterans-america,organization,train
+10216.json,mostly-true,"Amendment 2 on medical marijuana won a higher percentage of the vote than the last six Florida governors, including Jeb Bushs 2002 landslide.",florida-amendments,united-care,organization,train
+2207.json,half-true,"The border security plan of Sens. McCain and Kyl called for 3,000 additional troops to keep us safe. President Obama says hell send 524.","homeland-security,immigration,message-machine",john-mccain,republican,train
+8319.json,half-true,The 2013-15 state budget backed by Gov. Scott Walker and Republican lawmakers left our technical colleges funded at 1989 levels.,"education,jobs,state-budget",state-democratic-party-wisconsin,democrat,train
+7892.json,mostly-true,Its expressly prohibited by law that you can read and wholly surveil domestic email traffic in the United States.,"civil-rights,legal-issues,terrorism",mike-rogers,republican,train
+11368.json,half-true,Israel has seen a 90 percent reduction in terrorist attacks that it attributes to building a 500-mile fence.,"foreign-policy,israel,terrorism",scott-walker,republican,train
+13266.json,barely-true,"Workers in the United States are making less than they were almost 20 years ago, and yet they are working harder.","economy,workers",donald-trump,republican,train
+12039.json,barely-true,"Regarding her State Department email practices, my predecessors did the same thing.",technology,hillary-clinton,democrat,train
+6279.json,half-true,"According to a national survey, transit ridership among people age 16 to 34 increased 40 percent between 2001 and 2009.",transportation,jeff-dickerson,none,train
+12828.json,barely-true,Bike lanes and sidewalks have been proven to reduce crashes by up to 38 percent on Austins streets.,"city-government,corrections-and-updates,transportation",bike-austin,none,train
+2137.json,barely-true,Dave Aronbergs career legal experience is less than two years as Asst. AG/private attorney.,candidates-biography,dan-gelber,democrat,train
+10657.json,false,EPA wants to regulate the family BBQ.,"environment,food-safety,government-regulation",allen-west,republican,train
+212.json,true,"Romney said ""'No' to in-state tuition"" for illegal immigrants.",immigration,mitt-romney,republican,train
+1773.json,false,Says Gov. Rick Perry failed to involve border sheriffs in developing plans to prevent violence in their communities.,immigration,boyd-richie,democrat,train
+9794.json,true,"Says Keene, N.H., requested a military-grade armored personnel truck, citing their annual Pumpkin Festival as a possible target for terrorists.","homeland-security,public-safety",john-oliver,none,train
+8445.json,false,Wendy Davis opposes any limits on abortion.,abortion,texas-right-life,none,train
+3446.json,barely-true,"When I took office in 2003, we had very little reserves.",city-government,david-cicilline,democrat,train
+1520.json,barely-true,I left the city with $43 million in the bank.,job-accomplishments,maurice-ferre,democrat,train
+12068.json,half-true,"Says when Bernie Sanders was in college, Sanders said something very similar to what conservative Wisconsin Supreme Court Justice Rebecca Bradley had written as a college student in the 1990s -- that women have a legitimate role in date rape.","candidates-biography,crime,sexuality,women",bill-mccoshen,republican,train
+1602.json,half-true,"For years now, we have spent more money than we have taken in.",economy,annise-parker,democrat,train
+1960.json,mostly-true,"If Rhode Island applied a 1-percent sales tax on all items exempt from sales tax, ''the state would receive an additional $89,376,857.''",taxes,lincoln-chafee,democrat,train
+10954.json,false,On same-sex marriage.,"gays-and-lesbians,marriage",hillary-clinton,democrat,train
+5947.json,false,"When Mitt Romney was governor of Massachusetts, we didnt just slow the rate of growth of our government, we actually cut it.","history,state-budget",mitt-romney,republican,train
+3910.json,half-true,Rick Perry has never lost an election and remains the only person to have won the Texas governorship three times in landslide elections.,candidates-biography,ted-nugent,republican,train
+7663.json,barely-true,Ch Guevara wrote extensively about the superiority of white Europeans over people of African descent.,"diversity,history",marco-rubio,republican,train
+9121.json,false,"Wisconsin is one of the bluest states, but under Scott Walker its unemployment rate is around 3.5%.","bipartisanship,elections,job-accomplishments,jobs,labor,states",rush-limbaugh,none,train
+7990.json,pants-fire,"Obamacare will provide insurance to all non-U.S. residents, even if they are here illegally.","health-care,immigration",chain-email,none,train
+11645.json,pants-fire,"Technically, (Ted Cruz is) not even an American.","elections,legal-issues",alan-grayson,democrat,train
+9647.json,false,"When the New Hampshire Legislature raised the gasoline tax, gas prices in the state were skyrocketing.","energy,taxes",club-growth,none,train
+4510.json,true,"At nearly 19 million people, the population of Florida is larger than all the earlier primary and caucus states combined.","diversity,elections",rick-scott,republican,train
+3988.json,barely-true,Vern Buchanan has been completely exonerated in a Federal Election Commission action.,campaign-finance,vern-buchanan,republican,train
+1094.json,half-true,"The stimulus ""has delivered $43 billion in tax relief to American working families and businesses""","economy,stimulus,taxes",barack-obama,democrat,train
+12972.json,mostly-true,"Parents and teachers are already worrying about what they call the Trump Effect. They report that bullying and harassment are on the rise in our schools, especially targeting students of color, Muslimsand immigrants.","education,immigration,islam",hillary-clinton,democrat,train
+13206.json,barely-true,"As a result of Chris Sununus vote against a Planned Parenthood contract, nearly 3,000 fewer women and families statewide accessed health care for birth control, cancer screenings and annual exams.","abortion,health-care,voting-record",colin-van-ostern,democrat,train
+8836.json,pants-fire,"Monica Wehby and Jason Conger are causing devastating consequences for nearly 23,000 Oregonians looking for work.",workers,justin-barasky,democrat,train
+9411.json,false,The Pentagon made up the since-debunked heroics of POW Jessica Lynch as she tried to avoid capture in Iraq.,"iraq,military",rachel-maddow,none,train
+6586.json,barely-true,Mitt Romneys platform ...wont protect the mortgage interest (tax) deduction for middle-class families.,"message-machine-2012,taxes",stephanie-cutter,democrat,train
+280.json,mostly-true,"The church Barack Obama belongs to has a ""nonnegotiable commitment to Africa.""",religion,chain-email,none,train
+3806.json,mostly-true,The Paul Ryan budget proposal would privatize Medicare.,"federal-budget,health-care,medicare",agenda-project,none,train
+5037.json,true,"And, as of today, New Jersey state government has less employees than when Christie Whitman left office in 2001.",jobs,chris-christie,republican,train
+6650.json,mostly-true,Providence has amongst the highest tax rate(s) in the entire country.,taxes,anthony-gemma,democrat,train
+12215.json,false,On supporting winner of Democratic primary with her superdelegate vote.,"elections,states",martha-laning,democrat,train
+3133.json,half-true,No one in the private sector gets unlimited accruals of vacation and sick leave.,"government-efficiency,public-service,retirement",ed-turanchik,none,train
+10696.json,false,On expanding Medicaid under the Affordable Care Act.,health-care,rick-scott,republican,train
+4904.json,pants-fire,99% of NJ voters do NOT support hunting.,"animals,polls",bear-education-and-resource-group,none,train
+9971.json,half-true,"Countries with a higher minimum wage than the United States $7.25 an hour include Denmark at $21, Australia at$15.81, Germany at$11and France at$12.35.","economy,workers",facebook-posts,none,train
+7882.json,true,Says Madison Mayor Paul Soglins stated intent when proposing that city contractors disclose private political donations was to discourage contributions to organizations with which he disagrees.,"campaign-finance,elections",wisconsin-institute-law-liberty,none,train
+10219.json,mostly-true,Republicans approved 12 times larger tax breaks for people making over 350 grand than for the average middle-class person.,"state-budget,taxes",peter-barca,democrat,train
+12116.json,mostly-true,"Over the last 30 years, extreme poverty has been cut in half.","foreign-policy,poverty",gayle-smith,democrat,train
+10987.json,false,On Common Core.,education,chris-christie,republican,train
+3187.json,pants-fire,Foreign Trade Zones allow U.S. land to be inhabited by Chinese communists -- communists straight from China! They are to set up little towns and live here.,"foreign-policy,trade",chain-email,none,train
+13095.json,false,Says eight Americans died in a knife attack at a Minnesota mall.,"guns,terrorism",tom-tancredo,republican,train
+11662.json,half-true,"In Texas, weve had three ISIS-related incidents already.","criminal-justice,immigration,islam",greg-abbott,republican,train
+4705.json,pants-fire,"Under Barack Obamas watch, we have expended $805 billion to liberate the people of Iraq and, more importantly, 4,400 American lives.","federal-budget,iraq,military",michele-bachmann,republican,train
+12532.json,pants-fire,"The Obama administration was actively supporting Al Qaeda in Iraq, the terrorist group that became the Islamic State.","foreign-policy,military,terrorism",donald-trump,republican,train
+2429.json,half-true,Julie Lassa willingly took a hefty pay raise at a time when people throughout her district and the state were losing their jobs.,state-budget,sean-duffy,republican,train
+12480.json,true,The 2015 Legislature passed the fewest laws in 20 years.,states,greg-abbott,republican,train
+10766.json,barely-true,The money the Clinton Foundation took from from foreign governments while Hillary Clinton was secretary of state is clearly illegal. The Constitution says you cant take this stuff.,foreign-policy,newt-gingrich,republican,train
+12817.json,mostly-true,"Says Donald Trump said at the Republican convention, I alone can fix it.",candidates-biography,hillary-clinton,democrat,train
+11831.json,barely-true,"Between 1990 and 2013, the maternal mortality rate for women in the U.S. has increased by 136%.",women,sheila-jackson-lee,democrat,train
+6139.json,barely-true,"Most of Ted Cruzs money comes from Washington, from outside the state of Texas.",campaign-finance,david-dewhurst,republican,train
+433.json,mostly-true,I'm the product of a mixed marriage that would have been illegal in 12 states when I was born.,candidates-biography,barack-obama,democrat,train
+9747.json,false,Del. Ben Chafin took money away from Southwest Virginia schools while votingto build a politicians palace.,"corrections-and-updates,education,state-budget",mike-hymes,democrat,train
+10306.json,half-true,"When Colorado eased its medical marijuana laws, fatal accidents involving pot-using drivers soared while overall traffic fatalities decreased.","marijuana,public-safety",charles-chuck-spahos,none,train
+4229.json,false,Theres no money in Social Security.,"economy,federal-budget,social-security,taxes",barry-hinckley,republican,train
+5280.json,barely-true,"The Obama administration ... would impose on every Catholic institution, every Jewish institution, every Protestant institution the Obamacare standard of what you have to buy as insurance.","abortion,health-care,religion,states",newt-gingrich,republican,train
+8066.json,half-true,Gangs have increased by 40 percent since this president was elected.,"crime,pundits",newt-gingrich,republican,train
+6454.json,false,Says state Senate candidate Aaron Bean voted to give health care subsidies to illegal immigrants.,"health-care,immigration",floridians-ethics-and-truth-politics,republican,train
+1359.json,mostly-true,The post-Soviet industrial meltdown is responsible for most of the progress in reducing carbon emissions that Europe is able to claim.,"climate-change,environment,pundits",eugene-robinson,none,train
+12907.json,half-true,"Says his father-in-law, former Gov. Linwood Holton, integrated Virginia public schools.","civil-rights,education,history",tim-kaine,democrat,train
+4839.json,mostly-true,Says were losing one voter every 13 minutes.,elections,our-oregon,democrat,train
+13284.json,barely-true,"During his 18-year Senate career, (Russ Feingold) supported judges who voted to deny your individual Second Amendment right. (He) promises to protect those rights, but thats not what his record shows.",guns,ron-johnson,republican,train
+11372.json,true,"Since 2008, U.S. crude oil output has increased by over 80 percent, an increase of over 4 million barrels a day. That is the fastest increase in U.S. history.",energy,jeb-bush,republican,train
+7290.json,pants-fire,"Says U.S. Rep. John Barrow, D-Ga., celebrates gun ownership even in the face of school shootings.",guns,coalition-stop-gun-violence,organization,train
+7613.json,mostly-true,Says Ive authored the first bipartisan tax reform bill in a quarter-century.,"bipartisanship,congress,taxes",ron-wyden,democrat,train
+13501.json,pants-fire,Lady Gaga announced she would cover her face until Trump gets fired from office.,fake-news,blog-posting,none,train
+5001.json,false,George Allencast the deciding votefor the 2003Bushtax cuts.,"taxes,voting-record",tim-kaine,democrat,train
+2637.json,false,Says Maryellen OShaughnessy accepted campaign cash from indicted politician Jimmy Dimora.,campaign-advertising,ohio-republican-party,republican,train
+5418.json,false,Says Gov. Scott Walker is openly backing a move to abolish the state retirement system and convert it to a 401(k)-style plan that will reduce pensions by at least a third for current and retired public employees,"pensions,state-budget",chain-email,none,train
+8906.json,false,"Responding to a major snow event in Atlanta would be like Kansas City, Mo., responding to a major earthquake.",weather,sly-james,none,train
+8088.json,pants-fire,I was banned from talking about Bill Ayers during the 2008 presidential campaign.,"elections,pundits,terrorism",sarah-palin,republican,train
+3316.json,barely-true,Some of our states educational administrators joined the feds in seeking to mandate Arabic classes for Texas children.,education,chuck-norris,republican,train
+8147.json,half-true,"Says that while Foster was mayor, Rick Kriseman was ineffective in the Florida House of Representatives because there was no legislation that passed the House that had (Krisemans) name on it.","florida,states",bill-foster,republican,train
+468.json,half-true,If Senator Clinton or John McCain had stood up in previous years for increases in fuel efficiency standards . . . then we would not be in this same situation in the first place.,energy,barack-obama,democrat,train
+2488.json,half-true,Says $30 million gap in stadium funding forced the Portland Beavers to leave.,baseball,sam-adams,democrat,train
+5322.json,barely-true,"Three years ago, a newly elected President Obama told America that if Congress approved his plan to borrow nearly a trillion dollars, he would hold unemployment below 8 percent.",stimulus,mitt-romney,republican,train
+10528.json,half-true,Georgia lawmaker pushes bill banning creation of glow in the dark human-jellyfish hybrids.,"science,states",raw-story,none,train
+1410.json,mostly-true,"In Massachusetts, Scott Browns Republican affiliation is not a secret, but clearly not on display.","candidates-biography,elections,pundits",kelly-odonnell,none,train
+9537.json,mostly-true,Women of childbearing age spend 68 percent more in out-of-pocket health care costs than men.,"health-care,women",ruth-bader-ginsburg,none,train
+7400.json,false,Wisconsins Supreme Court justices are deciding fewer opinions in civil and criminal cases than they used to.,"criminal-justice,legal-issues,supreme-court",ed-fallone,none,train
+10674.json,half-true,"In the United States, weve had 12 years in a row of wages declining.","economy,jobs",martin-omalley,democrat,train
+11806.json,mostly-true,"Under Ted Cruzs tax plan, businesses will now have to pay 16 percent on the money they make. They will also have to pay 16 percent on the money they pay their employees.",taxes,marco-rubio,republican,train
+10482.json,mostly-true,Millions of people have given up looking for work altogether.,economy,jeb-bush,republican,train
+3371.json,false,"Says nobody in higher education believes Gov. Rick Perrys proposal to serve up $10,000 college degrees is possible.",education,andy-brown,democrat,train
+10331.json,true,My wife is going to be the first Hispanic first lady in the history of Texas.,"candidates-biography,history,women",greg-abbott,republican,train
+10805.json,half-true,A sitting sheriff cannot be charged except by a warrant issued by a Superior Court judge.,"crime,legal-issues",danny-porter,none,train
+9204.json,false,Did you know that in 2013 over 50 percent of all babies born in Oregon were Hispanic?,"children,diversity,education",betsy-miller-jones,none,train
+3461.json,false,"The U.S. gives foreign aid to Cuba and Venezuela, even though those countries are our enemies.","federal-budget,foreign-policy",ted-poe,republican,train
+4806.json,pants-fire,Says that Sen. Sherrod Brown is out there egging on a lot of these protesters who are spitting on policemen and going to the bathroom on policemens cars at these protests on Wall Street and other places.,"civil-rights,economy",josh-mandel,republican,train
+3245.json,half-true,The White House budget plan will bring domestic discretionary spending to its lowest share of our economy since Dwight Eisenhower was president.,federal-budget,barack-obama,democrat,train
+10434.json,true,The Republican Party has not won a presidential election without either a Bush or a Nixon on the ticket since 1928.,"bush-administration,elections",tweets,none,train
+8391.json,barely-true,"Bill Gunter would drain millions from local public schools, and give our tax dollars to private, for-profit schools run by out-of-state corporations.","education,state-budget",florida-democratic-party,democrat,train
+10673.json,mostly-true,"The Affordable Care Act is a major reason why weve seen 50,000 fewer preventable patient deaths in hospitals.","health-care,public-health",barack-obama,democrat,train
+7756.json,mostly-true,"Four balanced budgets in a row, with no new taxes for anyone. The best job growth in 12 years. Nearly 130,000 new private-sector jobs. Merit pay to reward New Jerseys best teachers, and the most education funding ever.","job-accomplishments,jobs,state-budget,state-finances,taxes",chris-christie,republican,train
+3848.json,false,No one thought we could get a bipartisan bill (Medicaid) passed. We did in the Florida Senate.,"health-care,medicare,state-budget",mike-haridopolos,republican,train
+581.json,true,McCain has switched to Obama's position on more troops to Afghanistan.,foreign-policy,barack-obama,democrat,train
+5921.json,pants-fire,Says President Barack Obamas finance team is recommending a 1% tax on all transactions at any financial institution.,"social-security,taxes",chain-email,none,train
+12945.json,true,"Almost half a million people are still eligible (for DACA), particularly in the Asian-American and Pacific Islander community.",immigration,hillary-clinton,democrat,train
+10086.json,true,"In the past three years, we have prosecuted or brought more cases on access to public records than in the previous 12 years combined.","candidates-biography,government-efficiency,government-regulation,history,job-accomplishments,legal-issues,transparency",peter-kilmartin,democrat,train
+9839.json,mostly-true,In the latest jobs numbers Wisconsin ranked third in the Midwest.,"jobs,message-machine-2014",scott-walker,republican,train
+11362.json,true,Says Bernie Sanders was there when it came to (same-sex) marriage 20 years ago. ... He was there when it wasnt popular.,"civil-rights,corrections-and-updates,gays-and-lesbians,marriage",chuck-todd,none,train
+2620.json,false,"Said U.S. Rep. Jim Marshall, D-Macon, sent nearly $2 billion overseas to build wind turbines and create jobs, mostly in China","environment,message-machine,stimulus",austin-scott,republican,train
+3054.json,true,"Whether you like to admit it or not, half our general revenue goes to education.","education,state-budget",mike-haridopolos,republican,train
+5312.json,pants-fire,David Dewhurst has a record of promoting an income tax.,taxes,ted-cruz,republican,train
+11391.json,true,90% of Americans want national background checks that close loopholes.,"crime,criminal-justice,government-regulation,guns",jeremy-bird,democrat,train
+7745.json,false,Says Gov. Rick Scott allowed Republican legislators to cut his teacher pay raise proposal by 60 percent.,"education,state-budget",allison-tant,democrat,train
+3266.json,half-true,"Lyme disease is one of the fastest growing infectious diseases in the United States, and Rhode Island has the second-highest incidence of this disease in the country.","public-health,public-safety",susan-sosnowski,democrat,train
+6540.json,barely-true,The state government workforce grew when Tim Kaine was governor.,"government-efficiency,job-accomplishments,workers",george-allen,republican,train
+4763.json,half-true,The unemployment rate among (the) non-college-educated is well into the double digits in America. Its 4 percent or 5 percent for people who have college degrees.,"jobs,workers",rick-santorum,republican,train
+12382.json,half-true,Says Katie McGintyactually agrees with Hillary Clinton and the most liberal wing of the Democrats on everything.,"environment,trade",pat-toomey,republican,train
+12643.json,false,Says she never received nor sent any material that was marked classified on her private email server whilesecretary of state.,"corrections-and-updates,ethics,foreign-policy,technology",hillary-clinton,democrat,train
+590.json,barely-true,I have little doubt that we've moved into recession at this point.,economy,barack-obama,democrat,train
+778.json,false,1.3-million people in America make their living off eBay.,economy,john-mccain,republican,train
+5034.json,half-true,Florida is considered the fourth-largest gambling state in the nation.,gambling,ellyn-bogdanoff,republican,train
+7832.json,half-true,Fewer Democrats were on the Georgia general election ballot in 2012 than in more than 100 years.,elections,bryan-long,democrat,train
+5468.json,false,Says we had to cut 13 billion dollars in state spending over two years.,"deficit,state-budget,state-finances",chris-christie,republican,train
+6450.json,pants-fire,Says the federal government mandates transexuals (sic) and homosexuals grabbing children in their stranger-danger zones in the name of airport security.,privacy,mark-clayton,democrat,train
+13475.json,pants-fire,"Donald Trump Protester Speaks Out: I Was Paid $3,500 To Protest Trumps Rally.",fake-news,blog-posting,none,train
+431.json,half-true,"He took on special interests and won, passing the toughest ethics law yet.","candidates-biography,ethics",barack-obama,democrat,train
+11899.json,true,The African-American community lost half of their wealth as a result of the Wall Street collapse.,"diversity,financial-regulation",bernie-s,independent,train
+390.json,true,I've spent 20 years devoted to working on behalf of families who are having a tough time and are seeking out the American dream.,candidates-biography,barack-obama,democrat,train
+11354.json,barely-true,"Weve had examples like in Yuma County, where weve been able to stop 97 percent of the illegal (immigration) flow, and those programs, they abolish.",immigration,ben-carson,republican,train
+1835.json,half-true,Says the Arizona immigration law expressly bans racial profiling.,immigration,john-cornyn,republican,train
+3843.json,true,It is a greater crime to have an untagged alligator than to host an open house party (for kids).,"Alcohol,animals,children,crime",kathleen-passidomo,republican,train
+1470.json,half-true,One state even spent a million bucks to put up signs that advertise that they were spending on the federal stimulus projects.,"federal-budget,stimulus,transportation",sarah-palin,republican,train
+3837.json,false,The citys 30 percent set aside for affordable housing in urban renewal areas is calculated citywide -- not district by district,housing,sam-adams,democrat,train
+11380.json,pants-fire,"Everyone on Californias roads is properly licensed, tested and insured.","public-safety,transportation",luis-alejo,democrat,train
+8212.json,barely-true,"Obamacare-caused paperwork will annually absorb 190 million hours or more--and Mount Rushmore could be built 1,547 times over with the paperwork.","federal-budget,health-care",ted-cruz,republican,train
+4782.json,half-true,"By 2014, there will be one administrator for every teacher on college campuses in the United States.",education,newt-gingrich,republican,train
+4733.json,false,"Thirty million Americans, including a lot of people in Florida, are going to be able to get healthcare next year because of that law.",health-care,barack-obama,democrat,train
+7349.json,false,This is the first time since Roe was decided in 1973 that a court has granted personhood status to the preborn.,"abortion,children",dan-becker,none,train
+1579.json,mostly-true,"Sen. Kay Bailey Hutchison's ""concession speech came with less than 20 percent of the precincts having been counted.",elections,linda-curtis,independent,train
+8856.json,half-true,Says Marshawn Lynch is second all-time in terms of average yards per rush only to Terrell Davis.,sports,joel-klatt,none,train
+10615.json,half-true,On support for ethanol mandates,"agriculture,energy,gas-prices",scott-walker,republican,train
+7055.json,false,The Ryan budget gets rid of Medicare in 10 years and turns it into a voucher program.,"health-care,medicare",sheldon-whitehouse,democrat,train
+545.json,half-true,"John McCain ""opposed legislation to fund levees and flood control programs, which he considers pork.""",federal-budget,barack-obama,democrat,train
+4269.json,true,"There are cities and counties in Georgia that dont have websites, and where elected officials dont have email addresses.","infrastructure,technology",sam-olens,republican,train
+6722.json,mostly-true,"Based on the August 2012 national jobs numbers, for every person who got a job, nearly four people stopped looking for a job.",jobs,paul-ryan,republican,train
+740.json,true,Palin (proposed) a $150 bounty for the severed foreleg of each killed wolf.,environment,defenders-wildlife-action-fund-defenders-wildlife-,none,train
+12540.json,half-true,There are 500 failing schools in North Carolina,"children,education,poverty",americans-prosperity-north-carolina-chapter,organization,train
+7517.json,half-true,"Raising taxes on investment income has actually lowered the revenue received from the tax, while cutting capital gains tax rates has increased revenue.",taxes,jim-renacci,republican,train
+9958.json,mostly-true,"Under Scott Walker, right now, were 46th in the country in terms of new businesses started.","economy,job-accomplishments,jobs,small-business",mary-burke,democrat,train
+7265.json,half-true,"Thanks to Washington, nearly everyone will pay more in taxes in 2013. Somehow people think its just the wealthy. Its not.","economy,federal-budget,state-budget,taxes",scott-walker,republican,train
+974.json,mostly-true,The Employee Free Choice Act mandates the elimination of the secret ballot.,workers,arlen-specter,democrat,train
+5361.json,pants-fire,Says abortion is the most common surgery in our country.,abortion,patrick-johnston,none,train
+4529.json,barely-true,Says Gov. Chris Christie has now come up with a new agenda for ethics reform in September 2011.,ethics,john-wisniewski,democrat,train
+8706.json,barely-true,Kathleen Peters refuses to take a stand to repeal Obamacare.,health-care,david-jolly,republican,train
+4797.json,half-true,Solyndrahad robots that whistled Disney songs. Im not kidding.,"corporations,energy,environment,jobs,stimulus",mitt-romney,republican,train
+9018.json,true,Austin is a city that has basically doubled in size every 25 years or so since it was founded.,"city-government,population",lee-leffingwell,democrat,train
+3492.json,pants-fire,One. Thats the number of new drilling permits under the Obama administration since they came into office.,"energy,oil-spill",michele-bachmann,republican,train
+3889.json,false,China owns about 29 percent of (the U.S.) debt.,china,allen-west,republican,train
+13239.json,barely-true,"Stopped by Smiley Cookie to pick up some great cookies for the family, along with Rudy.",food,donald-trump,republican,train
+8248.json,mostly-true,"Before President Obama acted in Libya in 2011, the American people were opposed to military action by 35 to 60. After he took action, they were in support of it 54 to 43.","foreign-policy,military,pundits",karl-rove,republican,train
+3204.json,false,Massachusetts public schools teach kids as young as kindergartners about gay marriage.,"families,gays-and-lesbians,marriage,religion",national-organization-marriage,organization,train
+4819.json,mostly-true,Says Rick Perry proposed a binational health insurance program with Mexico.,immigration,d-king,none,train
+1117.json,half-true,"Under President George W. Bush, the U.S. spent $1.3 trillion on tax cuts for the wealthy and trillions each on a war and on Medicare drug benefits.","federal-budget,iraq,medicare,military,taxes",donna-brazile,democrat,train
+9658.json,false,Says Common Core is a federal mandate.,"children,education,federal-budget,states",joe-leibham,republican,train
+2505.json,half-true,"U.S. Sen. Johnny Isakson has never proposed, nor voted in favor of, a substantial cut in federal spending and has voted for many substantial increases in federal spending.",federal-budget,chuck-donovan,libertarian,train
+12764.json,mostly-true,Says Debbie Wasserman Schultz has voted for huge subsidies for the sugar industry ... as well as for delays in cleanups.,environment,tim-canova,democrat,train
+11411.json,false,"Dan Gecker voted to double vehicle registration fees, costing (Chesterfield) county residents over $6 million annually.","county-government,taxes",glen-sturtevant,republican,train
+9974.json,false,"In 2001 and 02 . . . we had the pension system funded at (the)100% level in that year, and we did for two years at that point.","debt,deficit,economy,history,job-accomplishments,labor,legal-issues,pensions,unions,workers",vincent-buddy-cianci,independent,train
+13434.json,true,Says Richard Burr was one of only three senators who voted against a ban on insider trading for members of Congress. And he called that vote brave.,"congress,congressional-rules,ethics,legal-issues,voting-record",deborah-ross,democrat,train
+314.json,false,I was pretty proud of being the only guy on the stage that ever had a job in the private sector.,candidates-biography,mitt-romney,republican,train
+5056.json,half-true,Wisconsins monthly job reports have a margin of error of 75 percent and were way off in eight of first 10 months of 2011.,"economy,jobs,labor",rebecca-kleefisch,republican,train
+10277.json,barely-true,"In 2012, 123 African-Americans were shot dead by police. ... Same year, 326 whites were killed by police.","crime,diversity,urban",bill-oreilly,none,train
+5619.json,half-true,Weve had a dramatic drop in violent crime since this law (stand your ground) has been in effect.,"corrections-and-updates,crime,criminal-justice",dennis-baxley,republican,train
+8309.json,true,"In fiscal year 2011-2012, 4,191 abortions were paid for by taxpayers via the Oregon Health Plan.","abortion,taxes",oregon-2014,organization,train
+10861.json,barely-true,Says Democratic challenger Russ Feingold was the deciding vote on Obamacare.,"candidates-biography,congressional-rules,health-care,public-health",ron-johnson,republican,train
+5366.json,false,Says 67 percent of marriages now wind up in divorce.,marriage,stephen-sweeney,democrat,train
+4015.json,barely-true,"Rep. Jim Renaccis plan to end Medicare also puts nursing home care for 3,000 seniors in the district in immediate jeopardy.","health-care,medicaid,medicare",democratic-congressional-campaign-committee,democrat,train
+9881.json,barely-true,Says cuts to Medicare affect people who have already paid in. We paid for it.,"federal-budget,health-care,medicare",national-republican-senatorial-committee,republican,train
+5987.json,true,Says the city of Portland has one manager for every six front-line workers.,"city-government,government-efficiency",jefferson-smith,democrat,train
+1786.json,half-true,On the Arizona immigration law.,immigration,marco-rubio,republican,train
+3503.json,half-true,"Says that during the first 19 months of the Obama administration, the U.S. detained people from nations designated as state sponsors of terrorism on the southwestern border.","immigration,terrorism",john-cornyn,republican,train
+53.json,half-true,"During his tenure in Washington and in the Illinois State Senate, Barack Obama has accumulated a record of bipartisan success.",job-accomplishments,barack-obama,democrat,train
+2857.json,true,"Demand for transportation choice is on the rise, with 14 percent more Ohioans riding passenger trains over the past year.","federal-budget,infrastructure,transportation",ohio-department-transportation,none,train
+3930.json,half-true,"If todays economy was rebounding at the rate of the Reagan recovery, it would have created the equivalent of 25 million new jobs and raised federal revenue by $800 billion a year.","economy,federal-budget,history,jobs,taxes",newt-gingrich,republican,train
+12983.json,false,On drilling off the Atlantic coast,energy,tim-kaine,democrat,train
+7777.json,barely-true,"When Susan Rice spoke about Benghazi on Sunday news shows, she said that al-Qaida might be involved, or other al-Qaida affiliates might be involved, or non-al-Qaida Libyan extremists, which I think demonstrates that there was no effort to play that down.","foreign-policy,terrorism",jay-carney,none,train
+10051.json,false,"In the 38 Studios deal, Wall Street investors took a risk, and went bust.","bankruptcy,debt,economy,history,job-accomplishments,message-machine-2014,campaign-advertising,state-budget,state-finances,taxes",allan-fung,republican,train
+11878.json,pants-fire,"Obama spent $7 billion to bring electricity to Africa, failed miserably.","energy,foreign-policy",daniel-greenfield,republican,train
+523.json,barely-true,"Obama's plan to raise the capital gains tax ""hurts the middle class.""",taxes,republican-national-committee-republican,republican,train
+772.json,true,You ... said that Barack Obama was not ready to be commander in chief.,candidates-biography,sarah-palin,republican,train
+10143.json,barely-true,"Ebola is incredibly contagious, very transmissible and easy to catch.","ebola,public-health",rand-paul,republican,train
+3935.json,true,Then-Sen. Barack Obama refused to raise the debt ceiling because he said President Bush had failed in leadership.,"candidates-biography,federal-budget",michele-bachmann,republican,train
+9672.json,barely-true,"Milwaukee County taxpayers paid $370,000 to settle a lawsuit over a decision by Sheriff David A. Clarke Jr. to use untrained corrections officers rather than deputies to patrol the lakefront.","labor,public-safety",chris-moews,democrat,train
+9917.json,half-true,New Hampshire has lost more jobs to China than any other state.,economy,senate-majority-pac,democrat,train
+11088.json,barely-true,"Four times, I said, he (John McCain)is a hero, but you know ... people choose selective pieces.","elections,military",donald-trump,republican,train
+9514.json,mostly-true,"In 31 states, decent child care costs more than college tuition.","children,education,families",barack-obama,democrat,train
+5706.json,true,Our rainy day fund has gone from 89 cents to $240 million.,"economy,jobs,state-budget,state-finances",john-kasich,republican,train
+12577.json,true,SaysDonald Trump called pregnant employees an inconvenience.,economy,hillary-clinton,democrat,train
+4512.json,false,"If we had been on Obamacare and a bureaucrat was trying to tell me when I could get that CAT scan, that would have delayed my treatment.",health-care,herman-cain,republican,train
+2380.json,false,We will be the first party to elect a bald guy to governor.,"candidates-biography,elections,history",john-thrasher,republican,train
+6598.json,half-true,The majority of Americans now doubt that our children will have a better future.,polls,mitt-romney,republican,train
+2496.json,half-true,We now have our kids go to school about a month less than most other advanced countries.,education,barack-obama,democrat,train
+9561.json,false,The U.S. Patent and Trademark Office received zero complaints about the Washington Redskins name.,sports,blog-posting,none,train
+11162.json,barely-true,"In FY 2014 Planned Parenthood performed 327,653 abortions while receiving $528 million from taxpayers, in violation of the Hyde amendment.","abortion,families,federal-budget,state-budget",john-cornyn,republican,train
+8444.json,half-true,Gov. Lincoln Chafee has imposed a mandatory abortion fee on all Rhode Islanders who buy health insurance through the states Obamacare exchange.,"abortion,government-regulation,health-care,public-health,religion",barth-bracy,activist,train
+4450.json,true,Ten years ago the Austin Water Utility used a total of 240.3 million gallons. Every summer since then our peak day of water use has been lower.,"city-budget,city-government,water",save-our-springs-alliance,none,train
+1143.json,true,Pregnant women trying to buy health insurance on their own are barred from maternity coverage because they have a pre-existing condition.,health-care,j-james-rohack,none,train
+6810.json,pants-fire,Says Mitt Romneys investments created zero jobs.,"candidates-biography,corporations,economy,jobs,message-machine-2012",workers-voice,none,train
+6340.json,barely-true,Says PolitiFact validated and independently documented its criminal history claims about Adan Ballesteros.,"candidates-biography,crime,criminal-justice",texans-accountable-government,none,train
+773.json,true,John McCain voted against funding the troops because of . . . a timeline in it to draw down American troops.,iraq,joe-biden,democrat,train
+6522.json,barely-true,The price of gasoline was at $1.85 a gallon when President Barack Obama took office and has since nearly doubled because of his policies,gas-prices,billboard,none,train
+5728.json,pants-fire,President Obamas refusal to grant permits for offshore drilling is one reason gasoline prices are soaring.,"energy,environment,gas-prices,pundits",mike-huckabee,republican,train
+2548.json,barely-true,Says that 93 percent of the time John Boccieri voted with Nancy Pelosi.,"message-machine,voting-record",national-republican-congressional-committee,republican,train
+4754.json,half-true,"In Georgia, hard-earned lottery dollars are doled out to the scion[s] of wealthy families.",education,rainbowpush-coalition,democrat,train
+7491.json,half-true,Says the Georgia Dome would need up to $350 million in work over the next five to seven years.,"infrastructure,sports,taxes",kasim-reed,democrat,train
+11731.json,mostly-true,Marco Rubio voted against authorizing President Obama to strike Syria after Assad used chemical weapons on his own people.,"candidates-biography,congress,foreign-policy,history,terrorism",hillary-clinton,democrat,train
+11211.json,false,Says Patrick Murphy hasnt passed a single bill out of committee.,congress,alan-grayson,democrat,train
+12709.json,false,"There are about 350,000 people who succeed in crossing our borders illegally each year.",immigration,jeff-sessions,republican,train
+9924.json,pants-fire,Three of five detainees swapped (for Bowe Bergdahl) are now ISIS leaders.,"foreign-policy,military,terrorism",blog-posting,none,train
+10442.json,pants-fire,"The U.S. unemployment rate has been massaged, its been doctored.","economy,job-accomplishments,jobs",rick-perry,republican,train
+1869.json,false,Every major study that has been done by a legitimate group ...shows that there are hundreds of thousands of jobs to be created if you pass our (cap-and-trade) legislation. And if you wind up pricing carbon.,"cap-and-trade,climate-change,abc-news-week",john-kerry,democrat,train
+3017.json,mostly-true,More than 125 jobs have been created at the Milwaukee Job Corps Center.,"job-accomplishments,jobs",tom-barrett,democrat,train
+11008.json,false,"Public support for abortion is actually going down a little bit, polls show.","abortion,polls",donald-trump,republican,train
+10565.json,barely-true,"Rhode Island has invested less in tourism, economic development and economic development personnel than four nearby states.","economy,government-efficiency,jobs,small-business,state-budget,state-finances,states,taxes,tourism,workers",gina-raimondo,democrat,train
+4721.json,pants-fire,China is trying to develop nuclear capability.,"china,foreign-policy,military,nuclear",herman-cain,republican,train
+2085.json,false,"Today, we have two Vietnams, side by side, North and South, exchanging and working.","afghanistan,history",sheila-jackson-lee,democrat,train
+7221.json,half-true,Says Detroit dumping a bunch of sewage in Lake Erie causes big problems for Ohio.,"agriculture,environment,water",john-kasich,republican,train
+2799.json,pants-fire,Says over 25 percent of the Texas budget funds services to non-U.S. citizens.,"economy,immigration",kathie-glass,libertarian,train
+13113.json,mostly-true,"Says that except for Donald Trump, every other major party nominee for the past 40 years has released their tax returns.","candidates-biography,income,taxes,wealth",tammy-baldwin,democrat,train
+11165.json,mostly-true,This is the most generous country in the world when it comes to immigration. There are a million people a year who legally immigrate to the United States.,immigration,marco-rubio,republican,train
+6255.json,half-true,Mitt Romneys companies were pioneers in outsourcing U.S. jobs to low-wage countries.,"candidates-biography,economy",barack-obama,democrat,train
+11250.json,true,Saudi Arabia has the third-largest military budget in the entire world.,military,bernie-s,independent,train
+13243.json,barely-true,"Says Ive been proven right about Hillary Clintons radical call for open borders, meaning anyone in the world can enter the United States without any limit at all.",immigration,donald-trump,republican,train
+1118.json,true,A loophole still exists which allows members of Congress and high-powered executive branch appointees to exploit 'insider' knowledge of the financial industry in order to turn personal profit.,crime,public-citizen,none,train
+7408.json,mostly-true,The majority of (the American people) voted for a Democratic House.,"congress,elections",steny-hoyer,democrat,train
+1153.json,half-true,"If you're over 65 years old in America today, you have no choice but to be in Medicare. Even if you want out of Medicare, you have to forfeit your Social Security to get out of it.",health-care,dick-armey,republican,train
+4726.json,barely-true,Proof of citizenship isnt necessary before you register to vote in Florida.,"elections,immigration,redistricting",alan-hays,republican,train
+3234.json,false,The Muslim Brotherhood has openly stated they want to declare war on Israel.,"foreign-policy,israel,pundits,terrorism",glenn-beck,none,train
+11565.json,half-true,Georgia is one of the 10 most tax-friendly states for retirees.,"income,pensions,retirement,taxes",Kiplinger-com,none,train
+5382.json,true,Wrong precinct rules exacerbate our provisional ballot problems (and) HB 194 does nothing to solve the wrong-precinct problem.,elections,kathleen-clyde,democrat,train
+4245.json,half-true,"I built the last nuclear plant not only in the state, but in the country.","energy,nuclear",tom-kean-sr,republican,train
+11504.json,barely-true,"In Florida, we have the lowest in-state tuition of any state.",education,jeb-bush,republican,train
+2952.json,true,A 5 percent increase in domestic production would increase the world supply by less than 1 percent and do almost nothing to our dependence on foreign oil. This would also have virtually no effect on the price of gas at the pump.,"environment,oil-spill",debbie-wasserman-schultz,democrat,train
+8915.json,half-true,A government report shows that alternatives to the Keystone XL pipeline are worse for the environment.,"climate-change,energy,environment",ralph-reed,republican,train
+2193.json,half-true,"In my attorney generals office, weve cut the budget 18 percent.",state-budget,bill-mccollum,republican,train
+2147.json,false,I dont think the argument can be credibly made that the United States of America is undertaxed compared to our competitors.,taxes,tim-pawlenty,republican,train
+3216.json,barely-true,Says Milwaukee County elected officials drive around in luxury cars on your dime.,county-budget,chris-abele,none,train
+3426.json,mostly-true,"Says that Republicans bragged about how every bill was going to be paid for, right from the beginning and that the first vote, the repeal of health care reform, violated that rule.","health-care,voting-record",sherrod-brown,democrat,train
+10156.json,mostly-true,Wisconsin Republicans repealed a statewide fair pay law that made sure women are treated fairly on the job.,"civil-rights,government-regulation,income,women,workers",barack-obama,democrat,train
+12718.json,barely-true,"As a senator, Hillary Clinton paid women less than the men in her office.",women,sharon-day,republican,train
+2177.json,half-true,Harry Reid says he does more for Nevada. Hes done more for unemployment. We were at 4.4 percent. Now were at 14 percent. Hes done more for the foreclosure rate. We have the highest foreclosure rate in the nation. Hes done more for bankruptcy. We have the highest bankruptcy rate in the nation.,"bankruptcy,economy,housing,message-machine",sharron-angle,republican,train
+620.json,true,McCain opposed a requirement that the government buy American-made motorcycles. And he said all buy-American provisions were quote 'disgraceful.',federal-budget,barack-obama,democrat,train
+4591.json,true,The people in Massachusetts like (the state health care plan) by about a 3-1 margin.,"health-care,polls,states",mitt-romney,republican,train
+11369.json,false,The Benghazi probe is the longest-running congressional investigation ever.,"congress,history,terrorism",hillary-clinton,democrat,train
+6966.json,mostly-true,"Now remember, property taxes went up 70 percent in the 10 years before I became governor.",taxes,chris-christie,republican,train
+9408.json,pants-fire,"SaysMichele Bachmann said on Fox News, This country could use a president like Benjamin Franklin again.",history,facebook-posts,none,train
+5075.json,true,Says hes proposed the largest employer contribution to the Virginia Retirement System in history.,pensions,bob-mcdonnell,republican,train
+2254.json,half-true,Jim Renacci supports a national sales tax of 23 percent.,"federal-budget,message-machine,taxes",afscme,none,train
+6120.json,true,A million people a year come into the U.S. legally. No other country even comes close to that figure.,immigration,marco-rubio,republican,train
+1419.json,true,"Democratic presidents ""have been considerably more effective at creating private-sector jobs.""","economy,history,workers",carolyn-maloney,democrat,train
+7651.json,false,Says a gun bill before the Senate is proposing the universal registration of all firearms and their owners.,"civil-rights,guns",Arizona-Citizens-Defense-League,organization,train
+12999.json,pants-fire,"And while (Ted) Strickland proposed cuts for services for children, he wasted over $250,000 remodeling his bathrooms at the governors mansion.","candidates-biography,economy,job-accomplishments",national-republican-senatorial-committee,republican,train
+5172.json,barely-true,Romney signed government-mandated health care with taxpayer-funded abortions.,"abortion,message-machine-2012",newt-gingrich,republican,train
+1498.json,mostly-true,Says she stopped Capital Metro from raising fares for senior and disabled citizens.,disability,margaret-gomez,democrat,train
+6028.json,false,Says city leadership is threatening to lay off police and emergency services personnel to balance the budget.,"city-budget,public-safety",memphis-police-association,organization,train
+13092.json,true,"In the mid 1990s, in our state, (Florida was) No. 1 in violent crime in America. ... The only concern I had was for the citizens of Florida, who were subjected to a violent crime every three minutes and 45 seconds.",crime,charlie-crist,democrat,train
+13474.json,mostly-true,"President-elect Trumps immigration policies are very similar to policies that are sitting right in the Senate and the House today to temporarily suspend immigration from countries that harbor terrorism, to temporarily suspend immigration from Syria until we get better vetting.","homeland-security,immigration",reince-priebus,republican,train
+8462.json,mostly-true,Emergency rooms account for 2 percent of all health care spending.,"health-care,pundits",nick-gillespie,none,train
+10759.json,mostly-true,The Castro regime violated international norms by secretly shipping weapons to North Korea in violation of a U.N. embargo.,"congress,terrorism",david-perdue,republican,train
+4019.json,false,Gov. Chris Christie owes the state money for amenities like extra Gorgonzola cheese for his staff on these trips.,state-budget,new-jersey-democratic-state-committee,democrat,train
+7980.json,true,It is against the law for the NSA to record or monitor Americans phone calls without getting a specific FISA warrant to do so.,"privacy,terrorism",lynn-westmoreland,republican,train
+2928.json,true,"150,000 (oil spill) claims have been filed by Floridians, but only 40 percent of them have been paid.",oil-spill,alex-sink,democrat,train
+2561.json,false,Says Scott Walker says he would ban stem cell research,message-machine,tom-barrett,democrat,train
+5452.json,half-true,The U.S. has a record number of oil rigs operating right now more working oil and gas rigs than the rest of the world combined.,energy,barack-obama,democrat,train
+5849.json,mostly-true,The United States already has the highest corporate tax rate in the world.,"corporations,taxes",scott-desjarlais,republican,train
+9573.json,mostly-true,"If you look at the states where soccer is most popular, theyre overwhelmingly blue states, and the states where soccer is least popular are red states.","polls,sports",peter-beinart,none,train
+7926.json,mostly-true,"In the past four years, (the U.S. Senate) has only passed nine out of 48 appropriation bills.","congress,federal-budget",jack-kingston,republican,train
+3449.json,true,Says Oregon is near the top or at the top of the list when it comes to capital gains tax,"state-budget,taxes",tobias-read,democrat,train
+7017.json,pants-fire,"Under President Obama: $4,000 tax hike on middle-class families.","message-machine-2012,taxes",mitt-romney,republican,train
+2223.json,barely-true,A bill to aid state and local governments is fully paid-for by closing costly corporate tax loopholes.,"children,education,families,federal-budget,health-care,states,stimulus,taxes",nancy-pelosi,democrat,train
+6949.json,mostly-true,"In 2012, Connie Mack missed 178 votes, one of the worst voting records in Congress.","candidates-biography,debates,voting-record",bill-nelson,democrat,train
+12754.json,barely-true,America is one of the highest-taxed nations in the world.,taxes,donald-trump,republican,train
+9888.json,false,There were fewer civilian casualties in Cambodia than there have been from American drone attacks.,foreign-policy,henry-kissinger,republican,train
+12442.json,false,Says Donald Trump has the second-highest disapproval ratings of anyone running for president.,polls,ted-cruz,republican,train
+2504.json,pants-fire,Peter DeFazio will sneak in a 1 percent tax on all banking transactions.,taxes,chain-email,none,train
+432.json,half-true,"Barack Obama's network of small donors constitutes a ""parallel public financing system.""",ethics,barack-obama,democrat,train
+12021.json,false,SaysMichael Bennet wants to close Guantanamo Bay prisonand bring terrorists right here to Colorado.,"congress,terrorism",jon-keyser,republican,train
+11828.json,false,We have more illegal immigrants here than we did five years ago.,immigration,marco-rubio,republican,train
+477.json,mostly-true,"It is just a fact that Hamas, apparently the North American spokesperson, is endorsing Senator Obama.",foreign-policy,john-mccain,republican,train
+9172.json,pants-fire,Says Rep. Michele Bachmann said President Barack Obama might be to blame for the Fort Hood shootings.,congress,facebook-posts,none,train
+9599.json,half-true,We spend $18 billion a year on making sure that the federal government has immigrant enforcement agents. Thats more than DEA and the ATF and the FBI and all the other enforcement (agencies) combined.,"federal-budget,immigration,legal-issues",luis-gutierrez,democrat,train
+2663.json,pants-fire,Says PolitiFact says Amendment 4 will force counties and cities across Florida to raise taxes and fees.,florida-amendments,citizens-lower-taxes-and-stronger-economy,none,train
+11862.json,barely-true,"Faced with $1 million in campaign debt, Scott Walker is unloading his campaign security costs onto the backs of Wisconsin taxpayers.","campaign-finance,debt,state-budget,transportation",katrina-shankland,democrat,train
+10406.json,true,"Federal officials declared that grant funds could be used only for Milwaukees streetcar project, meaning it isnt possible to redirect the money to other modes of public transportation or to our public schools.","city-government,infrastructure,transportation",gwen-moore,democrat,train
+11998.json,half-true,"For every time the state gets paid a dollar in taxes (on gambling), somebody loses $6.",gambling,charles-van-zant,republican,train
+1929.json,false,"Bill McCollum ""served as a lobbyist whose clients enabled mortgages for illegal immigrants.""",immigration,rick-scott,republican,train
+920.json,mostly-true,The House Democrats' so-called 'stimulus' has been stuffed with an astonishing $335 million to fund prevention programs of sexually transmitted diseases.,"economy,stimulus",national-republican-congressional-committee,republican,train
+11214.json,true,"Says Ron Johnson opposes entirely a federal minimum wage, except perhaps for guest workers.","agriculture,economy,government-regulation,jobs,labor,unions,workers",russ-feingold,democrat,train
+12439.json,mostly-true,The Nordic countries are some of the few countries that meet development aid goals.,foreign-policy,barack-obama,democrat,train
+12819.json,half-true,Our economy is so much stronger than when (Barack Obama and Joe Biden) took office. Nearly 15 million new private-sector jobs.,"economy,jobs",hillary-clinton,democrat,train
+11527.json,false,On support for the Export-Import Bank,trade,glenn-grothman,republican,train
+8540.json,half-true,"Georgia has lost 14 percent of its jobs paying more than $50,000 a year and added 15 percent to its Medicaid rolls during the recovery.","economy,medicaid",michael-mule,republican,train
+8545.json,false,I am the first Latina to run for governor of Texas.,"candidates-biography,diversity,elections,history",miriam-martinez,republican,train
+3926.json,barely-true,"Earlier this year, the head of the Congressional Budget Office testified before Congress that implementation of Obamacare would cost 800,000 jobs.","health-care,jobs",adam-hasner,republican,train
+10487.json,mostly-true,Says a lawmaker seeks to defund Planned Parenthood for cutting children into small pieces.,abortion,miscellany-blue,democrat,train
+7069.json,barely-true,Says Ovide Lamontagne wants to eliminate kindergarten.,education,new-hampshire-democratic-party,democrat,train
+11233.json,false,The federal government right now does not deport criminals.,immigration,jeb-bush,republican,train
+5385.json,true,Says Scott Walker enacted the biggest cuts to education in our states history.,"education,state-budget,state-finances",kathleen-falk,democrat,train
+12673.json,barely-true,"(Big banks) have invested over $300,000 in (Joe Heck), and Heck has sponsored $44 million dollars in tax breaks for banks.",campaign-finance,senate-majority-pac,democrat,train
+7376.json,true,"After shedding jobs for more than 10 years, our manufacturers have added about 500,000 jobs over the past three.","economy,jobs",barack-obama,democrat,train
+3299.json,false,"When it comes to protesters in Madison, almost all are now from outside of Wisconsin.","labor,state-budget",scott-walker,republican,train
+2790.json,true,"Electric utility FirstEnergys annual revenues are greater than the GDP of Haiti, Kyrgyzstan, Iceland, or 15 African nations.","corporations,energy,infrastructure",marcy-kaptur,democrat,train
+12889.json,mostly-true,Says Carlos Beruff supported (Charlie) Crist even after he switched parties.,candidates-biography,florida-first-project,republican,train
+34.json,mostly-true,"In state after state, polls make clear that the American public understands the Kelo ruling is a disaster.",legal-issues,john-mccain,republican,train
+9551.json,false,Justin Amash is rated Michigans No. 1 conservative by National Right to Life.,abortion,justin-amash,republican,train
+2354.json,true,Says State Rep. Kristi Thibaut was an ACORN lobbyist.,candidates-biography,republican-party-texas,republican,train
+4560.json,barely-true,Says that politicians who approved collective bargaining restrictions for public employees exploited a loophole exempting themselves from Senate Bill 5.,"elections,jobs,labor,unions",we-are-ohio,none,train
+8749.json,barely-true,"When I was Mayor of South Pasadena, we actually reduced the property taxes we collected.",taxes,kathleen-peters,republican,train
+6893.json,barely-true,"By voting to approve [Question 1], we can . . . save 900 jobs at Twin River.","economy,gambling,jobs,message-machine-2012,state-budget,state-finances,workers",coalition-bring-jobs-ri,organization,train
+3207.json,mostly-true,"Today, American companies have nearly $2 trillion sitting on their balance sheets.","corporations,jobs",barack-obama,democrat,train
+13179.json,half-true,"In the state of Indiana, Ive signed more than $3.5 billion in tax relief.","job-accomplishments,state-budget,taxes",mike-pence,republican,train
+9139.json,false,Says he has engaged in the political process only in the past decade.,"campaign-finance,corporations",charles-koch,none,train
+284.json,half-true,"Barack Obama ""said in 2004 there was no difference between (Obama) and George Bush on the war.""",iraq,bill-clinton,democrat,train
+3096.json,true,New England already has access to ample supplies of natural gas.,"energy,environment",jack-reed,democrat,train
+3900.json,true,Rhode Island continues to have the highest rates of substance abuse in the country.,"Alcohol,drugs,marijuana,public-health,states",ian-lang,newsmaker,train
+13187.json,half-true,"When Donald Trump spoke in Phoenix, he looked the audience in the eye and he said no, were building a wall and were deporting everybody. He said, quote, they will all be gone. They will all be gone. This is one of the ones where you can go to the tape on it and see what Donald Trump has said.",immigration,tim-kaine,democrat,train
+4480.json,false,Says U.S. Rep. Tammy Baldwin is backing President Barack Obamas plan to pass a $1.5 trillion tax increase.,"deficit,federal-budget,taxes",national-republican-senatorial-committee,republican,train
+9434.json,barely-true,Jason Carter supports using Georgia tax dollars to promote Obamacare,health-care,republican-governors-association,republican,train
+6694.json,half-true,"On U.S.-Israeli relations, Prime Minister Benjamin Netanyahu set the record straight he said, our two countries have exactly the same policy (and) our security cooperation is unprecedented.",israel,john-kerry,democrat,train
+2476.json,false,Florida seniors are exempt from losing Medicare Advantage under the federal health care bill.,medicare,george-pataki,republican,train
+7170.json,true,Fourteen million Americans mortgages are greater than the value of their homes.,"economy,housing",dennis-kucinich,democrat,train
+1799.json,barely-true,"Elena Kagan ""violated the law of the United States at various points"" with her opposition to military recruiters.","kagan-nomination,military,supreme-court,abc-news-week",jeff-sessions,republican,train
+2998.json,true,"House Speaker Dean Cannon says that freshmen lawmakers account for one-third of the 120-member House, and that two-thirds of the chamber have two years or less experience.",elections,dean-cannon,republican,train
+215.json,true,"The oddest thing is he doesn't want to do for America what he did for Massachusetts. He did mandate health care for Massachusetts, which is HillaryCare, and he doesn't want to do that for America.",job-accomplishments,rudy-giuliani,republican,train
+3526.json,mostly-true,Corporate taxes will soon be the highest in the industrialized world.,"corporations,taxes",marco-rubio,republican,train
+10787.json,true,The Iranians are now saying that what were saying the deal is and what they understand it to be are two different things.,"foreign-policy,nuclear",marco-rubio,republican,train
+4556.json,true,"Legally, it doesnt make any difference which state district you live in when running for Congress.","elections,legal-issues,public-service",brian-newberry,republican,train
+3962.json,mostly-true,Says 11 percent of the nations fatal car crashes in 2009 were attributed to distracted driving.,public-safety,judith-zaffirini,democrat,train
+8852.json,mostly-true,David Dewhurst is the first lieutenant governor in history to have a personal security detail.,"candidates-biography,crime,homeland-security,public-safety,state-budget,state-finances",todd-staples,republican,train
+6194.json,false,President Obamashealth care law is a government takeover of healthcare.,"health-care,market-regulation",george-allen,republican,train
+9606.json,barely-true,We are accepting more legal immigrants than we ever have in the history (of the United States.),immigration,rick-santorum,republican,train
+8097.json,mostly-true,The minimum wage is lower right now than it was when Ronald Reagan took office.,"economy,history,workers",barack-obama,democrat,train
+4486.json,mostly-true,Says the Panhandle has had its highest-ever bed tax collections in 2011.,"economy,oil-spill,tourism",rick-scott,republican,train
+2379.json,half-true,John Boehner wants to reopen a tax loophole that actually rewarded corporations for shipping jobs and profits overseas.,"corporations,taxes,trade",barack-obama,democrat,train
+7076.json,barely-true,Says Jeb Bush extended early voting after seeing long lines.,elections,charlie-crist,democrat,train
+3655.json,pants-fire,"After the U.S.-led military alliance ejected Saddam Husseins forces from Kuwait in 1991, the Kuwaitis never paid us.","foreign-policy,history,military",donald-trump,republican,train
+667.json,true,McCain voted 19 times against a minimum-wage increase.,federal-budget,joe-biden,democrat,train
+9348.json,mostly-true,The Wisconsin school voucher program has no research that shows that its going to improve student learning.,"children,education,poverty,religion,state-budget",mary-burke,democrat,train
+533.json,barely-true,"These steps (a middle-class tax cut, national health care plan, foreclosure prevention fund, Social Security fix and more) are all paid for.",federal-budget,barack-obama,democrat,train
+5315.json,half-true,"Private prisons do not chase escaped inmates past the perimeter like the public prisons do, which means more escaped prisoners in our communities.","criminal-justice,state-budget",chain-email,none,train
+13406.json,true,Wisconsin is one of several states where you can change your early ballot if you think youve made a mistake.,"city-government,elections,states",donald-trump,republican,train
+9967.json,barely-true,Says President Barack Obama attacked potential terrorist targets in Syria in the middle of the night to minimize terrorist casualties.,"military,terrorism",ralph-peters,republican,train
+9413.json,true,Four (maybe five) Latinos have served on the Austin City Council.,"city-government,history",mike-martinez,democrat,train
+3165.json,true,Says every school will be negatively impacted if Education Stability Fund is not tapped.,"education,state-budget",dave-hunt,democrat,train
+6596.json,half-true,"In Massachusetts, Gov. Romney narrowed the gap between students of different races.",education,jeb-bush,republican,train
+2408.json,barely-true,Tom Barrett voted for the largest tax increase in history ... raising taxes on gas and Social Security.,"federal-budget,message-machine,taxes",republican-governors-association,republican,train
+2916.json,mostly-true,"Understand, this is unemployment insurance. Its not welfare, as a lot of my Republican colleagues like to suggest it is. You pay into it when youre working. You get help when youre not.","deficit,economy,federal-budget,jobs",sherrod-brown,democrat,train
+9438.json,true,"By 2009, dozens of senior terrorists had been taken off the battlefield by drones.","afghanistan,foreign-policy,iraq,legal-issues,military,terrorism",hillary-clinton,democrat,train
+10432.json,false,"The Texas leg of the Keystone pipeline has already created 4,800 jobs in just the year its been up and running.","energy,jobs",john-cornyn,republican,train
+3408.json,mostly-true,Democrats have now become the party of the [Atlanta] metro area and of blacks.,elections,alan-powell,republican,train
+5648.json,half-true,There is not one single federal housing program yet that has not needed a bailout to survive.,housing,lynn-westmoreland,republican,train
+8746.json,mostly-true,Marriage decreases the probability of child poverty by 82 percent.,"children,families,marriage,poverty",marco-rubio,republican,train
+10920.json,true,"47 percent of Americanscant pay for an unexpected $400 expense through savings or credit cards, without selling something or borrowing money.","economy,income",hunter-schwarz,none,train
+4997.json,mostly-true,Says Newt Gingrich made an affirmative statement that he would not only support but he would campaign for Republicans who were in support of the barbaric procedure known as partial-birth abortion.,abortion,michele-bachmann,republican,train
+5902.json,mostly-true,"Says since 2000, Austins tax burden rose more than 40 percent while family income rose more than 20 percent.","city-budget,city-government,taxes",dominic-chavez,none,train
+1440.json,barely-true,"President Obama pledged to go through the budget 'line by line,' but on his watch, non-defense spending has spiraled out of control, increasing by 67 percent in the last year alone.","federal-budget,stimulus",john-boehner,republican,train
+9679.json,barely-true,Says Mark Pryor continues to insist that Obamacare is an amazing success.,health-care,tom-cotton,republican,train
+5039.json,half-true,Newt balanced the federal budget.,"federal-budget,message-machine-2012",winning-our-future,none,train
+2678.json,true,"Says Marco Rubio said that people who essentially dont agree with him, ought to leave the country, like Keith Olbermann.","pundits,voting-record",charlie-crist,democrat,train
+7576.json,half-true,Very few men outlive their own fertility.,"children,families,gays-and-lesbians,human-rights,legal-issues,marriage,science,sexuality,supreme-court",charles-cooper,newsmaker,train
+8997.json,mostly-true,Says 21 million people still suffer slavery today.,"criminal-justice,foreign-policy,labor,workers",steve-mcqueen,none,train
+1376.json,barely-true,Says she has quadrupled agents to secure our border.,immigration,kay-bailey-hutchison,republican,train
+9625.json,pants-fire,"Says former Federal Reserve Chairman Alan Greenspan said that if the workers are more insecure, thats very healthy for the society because theyll serve the masters gladly and passively.","economy,labor,workers",facebook-posts,none,train
+11673.json,true,"Since 2008, Gwinnett Countys population has grown 15 percent, while the county government staff has increased only 1 percent.","census,county-budget,county-government,economy,jobs,public-safety,public-service,workers",charlotte-nash,republican,train
+1936.json,barely-true,"Jeff Greene ""is the king of the undercover Credit Default Swap that brought about the destruction of our economy that we have right now.""","candidates-biography,financial-regulation,housing",kendrick-meek,democrat,train
+2530.json,false,"Arkansas Democratic congressional candidate Chad Causey was a Washington, D.C. bureaucrat.","candidates-biography,message-machine",national-republican-congressional-committee,republican,train
+1517.json,half-true,"Bill McCollum ""cost the rest of us billions"" as a member of Congress, including a national debt that ""skyrocketed"" to $4.7 trillion.",candidates-biography,florida-democratic-party,democrat,train
+12014.json,mostly-true,President Obama took more money from Wall Street in the 2008 campaign than anybody ever had.,"campaign-finance,economy,elections,financial-regulation,history,stimulus,voting-record",hillary-clinton,democrat,train
+5117.json,half-true,"More than a quarter of mortgage borrowers are underwater, and 11 percent of all homes are vacant.","economy,housing",marcia-fudge,democrat,train
+540.json,mostly-true,"Barack Obama ""cut taxes for working families.""",taxes,barack-obama,democrat,train
+12863.json,true,The mosquito population in South Florida is larger than it is in many other communities in the country.,"environment,public-health",josh-earnest,democrat,train
+2264.json,false,Property taxes are now 18% higher than when(Mark Sharpe)first took office.,taxes,josh-burgin,republican,train
+13359.json,false,Says President Obama was proposing pinprick strikes for military intervention in Syria.,"candidates-biography,foreign-policy,military",marco-rubio,republican,train
+5093.json,mostly-true,"The EPA was asked about an environmental citation for the city landfill in Nashua, N.H. but didnt know why it was cited.","environment,government-regulation,new-hampshire-2012",newt-gingrich,republican,train
+9055.json,barely-true,Earth has not warmed for the last 17 years.,"climate-change,environment",patrick-moore,none,train
+1503.json,mostly-true,"$100,000 in stimulus funds (were) used for a Martini Bar and Brazilian Steakhouse.",stimulus,mitch-mcconnell,republican,train
+1762.json,false,This administration and this Congress have been systematically cutting funding to border security since the Democrats took control.,immigration,mike-pence,republican,train
+8409.json,half-true,"Live cats have holes drilled into their skulls, posts put into their heads and coils put into their eyes, and some have had their ears cut off or are intentionally deafened or starved at UW-Madison labs that do research to improve hearing in humans.","animals,education,health-care,public-health,science",people-ethical-treatment-animals,none,train
+369.json,false,"As has been noted by many observers, including Bill Clinton's former secretary of labor, my plan does more than anybody to reduce costs.",health-care,barack-obama,democrat,train
+11642.json,pants-fire,"President Barack Obama wants to take in 250,000 (people) from Syria.","immigration,terrorism",donald-trump,republican,train
+2710.json,half-true,Rick Boucher helped write the cap-and-trade bill,"cap-and-trade,climate-change,energy,environment",morgan-griffith,republican,train
+7258.json,true,"Since 1968, more Americans have died from gunfire than died in all the wars of this countrys history.",guns,mark-shields,none,train
+9169.json,true,"Before our last three presidents, you have to go back to the 1800s, early 1800s to find three presidents in a row being consecutively re-elected.","elections,history",joe-scarborough,none,train
+1104.json,half-true,"Only 15 percent of drug users are African-American, yet 74 percent of all drug offenders sentenced to prison are black","crime,legal-issues,marijuana,pundits",arianna-huffington,none,train
+13277.json,true,"Marco Rubio made it clear: Not only does he think Donald Trump is a con man, hewent on to say he doesnt trust Donald Trump with the nuclear codes.",candidates-biography,patrick-murphy,democrat,train
+11467.json,false,The word progressive...was created as a substitute forcommunist.,history,jon-voight,republican,train
+1859.json,barely-true,Handel endorsed gay adoption in 2003 when she was running for chairwoman of the Fulton County Commission.,gays-and-lesbians,nathan-deal,republican,train
+7638.json,mostly-true,"Under Republican Chris Christie, New Jersey had the highest increase in unemployment in the country last year. Nearly 1 in 10 jobless. The worst unemployment in the region. Near the bottom in economic growth, yet Christie protected a tax cut for millionaires but vetoed a minimum wage hike.","economy,jobs,states",one-new-jersey,democrat,train
+5050.json,mostly-true,Says Rick Santorum voted for the Bridge to Nowhere.,"federal-budget,message-machine-2012",rick-perry,republican,validation
+939.json,true,We are making the largest investment in education in our nations history.,"education,stimulus",barack-obama,democrat,validation
+9519.json,barely-true,U.S. Senate candidate David Perdues company took $3 million from the federal stimulus program that President Barack Obama created.,stimulus,jack-kingston,republican,validation
+8648.json,false,Gov. Charlie Crist sought for and got approved the automatic restoration of felon rights for nonviolent offenders for the first time in Florida history.,"civil-rights,crime,elections",dan-gelber,democrat,validation
+5253.json,true,"Says the New York Giants train in New Jersey, they play in New Jersey and most of their players live in New Jersey.",sports,chris-christie,republican,validation
+8731.json,false,"Under a proposed bill, a $100,000 homes flood insurance premium would be maybe $200 or $300 annually.","florida,housing",gus-bilirakis,republican,validation
+8198.json,mostly-true,"Ive got the spending down, Ive got the debt down a little bit, Ive got the reserves up.","county-budget,county-government,debt,state-budget,state-finances,taxes",mark-harris,democrat,validation
+9232.json,false,Says Al Franken voted to exempt himself and Congress from enrolling in (the Affordable Care Act marketplaces).,"health-care,voting-record",mike-mcfadden,republican,validation
+9540.json,pants-fire,Gov. Deal has the worst record on education in the history of this state.,education,matt-mcgrath,democrat,validation
+11908.json,false,"On the Iraq war, I said it loud and clear, Youll destabilize the Middle East.","candidates-biography,debates,iraq",donald-trump,republican,validation
+6830.json,false,"Right now, the (Congressional Budget Office) says up to 20 million people will lose their insurance as Obamacare goes into effect next year.","debates,health-care",mitt-romney,republican,validation
+9655.json,half-true,"Between June 30 and July 10, CNN interviewed 17 Israeli public officials versus onePalestinian official.","foreign-policy,israel",rula-jebreal,none,validation
+11115.json,true,(Hillary Clintons State Department) actually admonished one of her ambassadors because he wasnt using the proper server.,"technology,transparency",rand-paul,republican,validation
+3016.json,mostly-true,Rhode Island has the highest percentage of uninsured adults of any state in New England.,"economy,health-care,poverty",marie-ghazal,newsmaker,validation
+8279.json,half-true,"According to an article in the Economist magazine, Americans are guaranteed to live above the poverty line if they graduate from high school, keep their first job for over a year and get and stay married.","economy,education,jobs,marriage",barry-smitherman,republican,validation
+4666.json,false,Says his parents came to America following Fidel Castros takeover of Cuba.,"candidates-biography,immigration",marco-rubio,republican,validation
+9787.json,mostly-true,"The number of SWAT raids have gone up by 1,400 percent since the 1980s.","crime,criminal-justice,drugs",john-oliver,none,validation
+12977.json,mostly-true,Says Hillary Clinton is the one that labeled African-American youth as superpredators.,crime,reince-priebus,republican,validation
+9786.json,barely-true,SaysDavid Perdue made tens of millions of dollars piling a firm with billions in debt.,job-accomplishments,democratic-party-georgia-georgia,democrat,validation
+1539.json,mostly-true,"The Democrats' health care bills would end ""the denial of ... coverage to those who have a pre-existing condition,"" while the Republican bill would not.","health-care,abc-news-week",nancy-pelosi,democrat,validation
+1741.json,true,Congress can tell [the Supreme Court] which cases they ought to hear. We have that authority.,supreme-court,arlen-specter,democrat,validation
+12489.json,half-true,"Under (Obamacare), you cant reward a person for better behavior. You cant have incentives to be healthier.",health-care,paul-ryan,republican,validation
+1601.json,false,"Kay Bailey Hutchison was elected state treasurer, succeeding Ann Richards. Democrats then abolished the position ... Hutchison later became a U.S. senator.","elections,government-efficiency",karl-rove,republican,validation
+5882.json,half-true,U.S. Sen. Bill Nelson chose to side with President Obama against the Keystone pipeline,"climate-change,energy,message-machine-2012",freedom-pac,republican,validation
+1607.json,half-true,"Americans who get their insurance through the workplace, cost savings could be as much as $3,000 less per employee than if we do nothing.",health-care,barack-obama,democrat,validation
+4050.json,false,My husband and I have never gotten a penny of money from the farm.,campaign-finance,michele-bachmann,republican,validation
+103.json,half-true,I have not changed my position on the (gay) marriage amendment or anything else related to marriage.,"families,gays-and-lesbians",mitt-romney,republican,validation
+13028.json,mostly-true,Says Donald Trump is on record extensively supporting (the) intervention in Libya.,foreign-policy,hillary-clinton,democrat,validation
+163.json,barely-true,She hasn't run a corner store. She hasn't run a state. She hasn't run a city. She has never run anything.,job-accomplishments,mitt-romney,republican,validation
+9257.json,barely-true,Says Georgia Democratic Senate hopeful Michelle Nunn supports higher taxes.,taxes,ending-spending-action-fund,independent,validation
+1778.json,barely-true,"Says the EPA ""outsourced the scientific basis for its greenhouse gas regulation to a scandal-plagued international organization that cannot be considered objective or trustworthy.""","energy,environment,legal-issues",greg-abbott,republican,validation
+1399.json,true,"We definitely lost way more jobs in Texas this year than we gained we lost 300,000 jobs in Texas alone this year.",economy,kay-bailey-hutchison,republican,validation
+1433.json,half-true,"Because of the steps we took, there are about 2 million Americans working right now who would otherwise be unemployed.","economy,stimulus",barack-obama,democrat,validation
+6802.json,barely-true,"Brendan Doherty wants to repeal Obamacare, increasing drug prices for seniors.","drugs,health-care,medicare,message-machine-2012,campaign-advertising,poverty,public-health",david-cicilline,democrat,validation
+5789.json,half-true,"One out of two Americans are living either in or near poverty. That means 150 million Americans, half of us.","economy,poverty,welfare",tavis-smiley,none,validation
+13510.json,mostly-true,Says Donald Trump won more counties than any candidate on our side since Ronald Reagan.,elections,mike-pence,republican,validation
+6605.json,barely-true,"Says that when Democrats controlled Congress and the White House, federal spending as a share of the Gross Domestic Product leapt from 18.2 percent in 2001 to 25.2 percent in 2009 -- the largest such increase in any eight-year period since World War II.","debt,economy,federal-budget,voting-record",john-cornyn,republican,validation
+7928.json,false,The state GOP ticket says their top priority is a career-long mission to outlaw abortion in all cases and ban some common forms of birth control.,abortion,terry-mcauliffe,democrat,validation
+1418.json,half-true,We lowered the business tax from 4 percent down to 1 percent.,"corporations,economy,small-business,taxes",rick-perry,republican,validation
+12400.json,barely-true,Says Elizabeth Warren lied when she says I want to abolish the Federal Minimum Wage.,workers,donald-trump,republican,validation
+7966.json,mostly-true,"In 1960, most black children were raised in two-parent, monogamous families. Today we have only 20 percent of black children being raised in two-parent, monogamous families...","families,welfare",ew-jackson,republican,validation
+12401.json,false,Nevada Democratic Party leaders hijacked the process on the floor of the state convention ignoring the regular procedure and ramming through what they wanted to do.,elections,jeff-weaver,democrat,validation
+8968.json,barely-true,"Says Alaska Sen. Mark Begich is on record supporting a carbon tax, even pushing Harry Reid to make it a priority.","energy,environment",americans-prosperity,none,validation
+13499.json,barely-true,"President Obamas American Recovery and Reinvestment Act (was) a fancy name for almost a trillion-dollar spending bill. The ARRA was supposed to fix our crumbling roads and bridges, but now, we have absolutely nothing to show for it.","federal-budget,infrastructure,stimulus",eric-bolling,none,validation
+6657.json,true,"After a decade of decline, this country created over half a million manufacturing jobs in the last two and a half years.","economy,jobs",barack-obama,democrat,validation
+2531.json,half-true,Says Lee Fisher wanted a $1.1 billion tax increase which could have driven countless jobs out of state.,"economy,message-machine,stimulus,taxes",american-crossroads,republican,validation
+12732.json,half-true,There are more Hoosiers going to work than ever before.,"economy,job-accomplishments,jobs",mike-pence,republican,validation
+10135.json,half-true,"Ed Gillespies firm even lobbied for five foreign governments, including a dictator now awaiting trial for war crimes.","candidates-biography,message-machine-2014",mark-warner,democrat,validation
+9722.json,pants-fire,President Barack Obamas latest executive order mandates the apprehension and detention of Americans who merely show signs of respiratory illness.,"ebola,public-health",blog-posting,none,validation
+3708.json,pants-fire,Benzene has never been proven to be harmful.,environment,rick-hardcastle,republican,validation
+10128.json,false,"Obama, instead of nominating a health professional, he nominated someone who is an anti-gun activist (for surgeon general).","congress,corrections-and-updates,ebola,guns,health-care,public-health",ted-cruz,republican,validation
+9187.json,barely-true,Obamacare is costing 2 million jobs.,"health-care,jobs",laura-ingraham,none,validation
+6818.json,false,Says Ohios Issue 2 will create a redistricting commission that will have a blank check to spend our money.,"elections,government-efficiency,redistricting,state-budget",ohio-republican-party,republican,validation
+12390.json,mostly-true,"Every Republican nominee since Richard Nixon, who at one time was under an audit, has released their tax returns.","history,taxes",chris-wallace,none,validation
+9008.json,half-true,The new Ukrainian government introduced a law abolishing the use of languages other than Ukrainian in official circumstances.,foreign-policy,russia-today,none,validation
+12249.json,barely-true,The city of Charlotte passed a bathroom ordinance mandate on every private-sector employer in Charlotte.,"gays-and-lesbians,states",pat-mccrory,republican,validation
+3293.json,barely-true,"In Wisconsin, teachers make $89,000 in salary and benefits, compared to $48,000 for all other workers in the United States.","education,labor,pundits",eric-bolling,none,validation
+8993.json,mostly-true,Says Rick Scott oversaw the largest Medicare fraud in the nations history.,"candidates-biography,medicaid,medicare",florida-democratic-party,democrat,validation
+10461.json,half-true,Al-Qaida has grown fourfold in five years.,"foreign-policy,terrorism",jack-keane,none,validation
+10034.json,true,TSA WILL ACCEPT DRIVERS PRIV CARDS FOR ID AT THE AIRPORT,immigration,lars-larson,none,validation
+11857.json,false,Says a Sanders campaign ad never said ... a newspaper endorsed us that did not.,elections,bernie-s,independent,validation
+5004.json,barely-true,"A study says Massachusetts has lost 18,000 jobs because residents were required to obtain health insurance under an act signed into law by Mitt Romney.",health-care,rick-perry,republican,validation
+4634.json,true,"When we got the income tax in 1913, the top rate was 7 percent. By 1980, the top rate was 70 percent.","history,taxes",michele-bachmann,republican,validation
+4120.json,false,"Under our (2011-13) budget, the average (Wisconsin) property taxpayer will save $700.","state-budget,state-finances,taxes",scott-walker,republican,validation
+1516.json,true,"Bill McCollum voted four times to raise his own pay, by a total of $51,000, and earns a congressional pension worth more than $75,000 a year.",candidates-biography,florida-democratic-party,democrat,validation
+9763.json,mostly-true,Kasim Reed has kept every promise he made as a candidate.,"city-government,elections",kasim-reed,democrat,validation
+8712.json,true,The commission form of government is definitely losing favor in the United States.,county-government,kimberly-nelson,none,validation
+328.json,barely-true,"Romney left Massachusetts ""with a $245-million debt because of the big government-mandated health care system.""",health-care,john-mccain,republican,validation
+6838.json,mostly-true,"Were up 123,000 jobs over the last year and three-quarters. Were actually, according to the Bureau of Labor statistics, down 500 ... auto jobs in Ohio.","economy,jobs",john-kasich,republican,validation
+441.json,half-true,"More than one person, on average, a day is murdered in Philadelphia.",crime,hillary-clinton,democrat,validation
+3653.json,pants-fire,CNN did a poll recently where Obama and I are statistically tied.,polls,donald-trump,republican,validation
+12394.json,mostly-true,Closing our states wage gap would make a $9 billion difference to Missouri women.,"jobs,women,workers",chris-koster,democrat,validation
+6568.json,mostly-true,There has been $5 trillion in debt added over the last four years.,debt,chris-christie,republican,validation
+1124.json,pants-fire,Page 992 of the health care bill will establish school-based 'health' clinics. Your children will be indoctrinated and your grandchildren may be aborted!,"abortion,health-care",liberty-counsel,none,validation
+5434.json,false,President Obama once said he wants everybody in America to go to college.,education,rick-santorum,republican,validation
+10264.json,mostly-true,Texas had the worst voter participation in the country in the November 2014 elections.,"elections,population",jason-stanford,democrat,validation
+6491.json,false,Says Bill Nelson voted to raise our taxes 150 times.,"candidates-biography,taxes",connie-mack,republican,validation
+10486.json,pants-fire,Fundamental changes made to the language describing the Wisconsin Idea in the University of Wisconsin Systems mission statement were the result of a drafting error.,"education,government-efficiency,public-service,state-budget",scott-walker,republican,validation
+12975.json,true,Says there are concrete examples of University of Texas job applicants or prospective applicants and students as well as invited speakers changing their minds because of handguns being allowed in campus buildings and classrooms.,"education,guns",lisa-moore,none,validation
+7588.json,pants-fire,College students who are NOT U.S. Citizens and who get the PELL Grant plan to return to their home countries after getting free gas cards and child care.,"education,immigration,welfare",chain-email,none,validation
+6333.json,false,"What I look at every month is how many more New Jerseyans are back to work. You have another 9,900 last month that are back to work and over almost 90,000 that are back to work now since I became governor.",jobs,chris-christie,republican,test
+2640.json,false,Says Bruce Starr broke the law by letting lobbyists wine and dine him in Maui.,"ethics,message-machine",chuck-riley,democrat,test
+10962.json,true,"This March, for the first time in human history, the monthly average carbon dioxide in our atmosphere exceeded 400 parts per million. The range had been 170-300 parts per million for hundreds of thousands of years.","climate-change,congress",sheldon-whitehouse,democrat,test
+3121.json,half-true,"Last year, out of the 500,000 (in) population growth we had in the state of Texas, about 250,000 of the 500,000 came to Texas... from the other 49 states.","economy,immigration",david-dewhurst,republican,test
+6141.json,pants-fire,Federal health care reforms amounted to the government takeover of health care.,health-care,tommy-thompson,republican,test
+10799.json,half-true,"After laying off 30,000 people,Carly Fiorina said that in retrospect, I would have done them all faster.","candidates-biography,corporations,jobs",anonymous-cyber-squatter,none,test
+11375.json,true,We have 650 people who move to Texas every day.,"corrections-and-updates,economy,population,states",glenn-hegar,republican,test
+1158.json,barely-true,"Under the plan, for the first five years your employer not only has to keep the coverage, but you can't migrate to the public plan.",health-care,anthony-weiner,democrat,test
+9973.json,half-true,"Based on current trends, 15.5 million girls will be married in the next 16 years as children.",women,emma-watson,none,test
+2203.json,mostly-true,"If we ban the practice of earmarks, we could save the American taxpayer anywhere between $15 (billion) to $20 billion dollars a year in pork-barrel spending.",federal-budget,marco-rubio,republican,test
+9995.json,mostly-true,"We have 41,000 people right now on the waitlist for financial-based assistance for our tech colleges and universities, most of them for tech schools.","education,state-budget",mary-burke,democrat,test
+2594.json,true,John Raeses wife is registered to vote in Florida so she cant even vote for him.,"candidates-biography,elections,message-machine",joe-manchin,democrat,test
+6577.json,half-true,"Last month, 44 of the 50 states saw an increase in the unemployment rate.","economy,jobs,states",scott-walker,republican,test
+5171.json,false,Says an Obama administration policy prohibits people who work with at-risk youth from promoting marriage as a way to avoid poverty.,"marriage,poverty",rick-santorum,republican,test
+7336.json,barely-true,Says that 9 million to 50 million undocumented immigrants live in the United States.,"immigration,population",texas-federation-republican-women,republican,test
+13400.json,barely-true,"Says Chris Koster fell silentas attorney general in pursuing a case against a free classified service accused of promoting prostitution after accepting over $12,000 in campaign contributions from people affiliated with the service.","campaign-finance,legal-issues,women",eric-greitens,republican,test
+10208.json,barely-true,There would be tens of thousands of jobs created if President Barack Obama approved the Keystone XL pipeline.,"environment,jobs",anna-kooiman,none,test
+6015.json,false,"Because of voter fraud, Republican candidates need to do a point or two better to win statewide elections in Wisconsin.","city-government,crime,elections",reince-priebus,republican,test
+1448.json,half-true,"Health care reform ""would bring down the deficit by as much as $1 trillion over the next two decades.""","federal-budget,health-care",barack-obama,democrat,test
+12768.json,mostly-true,We are the only industrialized nation that doesnt guarantee workers paid family leave.,"families,jobs,women",kirsten-gillibrand,democrat,test
+11588.json,false,Drinking champagne could help prevent Alzheimers and other forms of dementia.,"Alcohol,health-care,medicare",viral-media-reports,none,test
+6112.json,mostly-true,"Says, Less than half of all states have legal protections on the basis of sexual orientation or gender identity, despite the fact that LGBT Americans report employment discrimination and unemployment at much higher rates than the U.S. average.","civil-rights,diversity,gays-and-lesbians,jobs,workers",jeff-merkley,democrat,test
+4711.json,mostly-true,Says the main Central Texas food bank is delivering 50 percent more food to the poor than three years ago.,"economy,poverty",lloyd-doggett,democrat,test
+1881.json,barely-true,"Across the country, more than half of the U.S. attorney seats remain without a prosecutor chosen by Obama.",legal-issues,thomas-melsheimer,democrat,test
+12221.json,mostly-true,"Says a company that got tax breaks from the state later laid off 100 Ohioans, even as its CEO cut a half-million-dollar check to Kasichs super PAC.","campaign-finance,candidates-biography,ethics",ted-cruz,republican,test
+5087.json,false,Eliminating Obamacare ... saves $95 billion a year.,"federal-budget,health-care,new-hampshire-2012",mitt-romney,republican,test
+4513.json,true,"The Fed created $1.2 trillion out of nothing, gave it to banks, and some of them foreign banks, so that they could stabilize their operations.","economy,financial-regulation",dennis-kucinich,democrat,test
+11539.json,half-true,"Obamacare insurance cooperative failures should be expected because theyre like any business, and when you start businesses in America, at the fifth year, half of the businesses have closed.",health-care,ezekiel-emanuel,democrat,test
+8240.json,false,Wind power is the most undependable form of renewable energy.,"economy,energy,environment,science,technology",james-oneil,democrat,test
+5815.json,barely-true,"Says Bill Pascrell voted to eliminate all estate taxes for billionaires, and I voted no.","message-machine-2012,taxes",steve-rothman,democrat,test
+2494.json,pants-fire,Says the Feingold garage ad is a fake: Hes not standing in front of his house.,"job-accomplishments,message-machine",mark-belling,talk-show-host,test
+2910.json,mostly-true,Measures taken by my administration have saved taxpayers $1 billion.,state-budget,donald-carcieri,republican,test
+9521.json,half-true,Says 95 percent of people caught crossing the U.S.-Mexico border said in a survey we are coming because weve been promised amnesty.,immigration,ted-cruz,republican,test
+6678.json,true,"The Senate has not passed a budget in more than three years, not a good budget, not a bad budget, no budget.",federal-budget,leonard-lance,republican,test
+3036.json,false,Wisconsins lawsuit rules are so anti-business that the states system is one of the most promiscuous in America.,"legal-issues,small-business",national-federation-independent-business-wiscons,none,test
+9737.json,false,The music industry is the biggest export from Africa after oil and gas.,"ebola,economy,foreign-policy,pop-culture",dbanj,none,test
+11764.json,pants-fire,Wisconsin dropped from second in the country to 41st among states where more than half the students took the ACT exam.,"children,education,state-budget,states",state-democratic-party-wisconsin,democrat,test
+7695.json,true,On allowing a vote on universal gun background checks in the U.S. Senate.,guns,johnny-isakson,republican,test
+6560.json,true,"If you look at the number of illegal immigrants coming into the country, it is net zero. Its been that way now for almost two years.",immigration,jeb-bush,republican,test
+4615.json,half-true,"Says Democrats raised taxes over 115 times in the past 10 years, making New Jersey increasingly unaffordable and chasing jobs to neighboring states.","economy,jobs,taxes",tom-kean-jr,republican,test
+1012.json,false,"We were not, I repeat, were not told that waterboarding or any of these other enhanced interrogation methods were used.",terrorism,nancy-pelosi,democrat,test
+8901.json,true,"The Keystone pipeline creates 35 permanent jobs after construction, according to a government report.","energy,environment",van-jones,democrat,test
+13291.json,half-true,Says Joe Heck voted to shut down the government.,voting-record,catherine-cortez-masto,democrat,test
+2911.json,false,We are giving almost $2 billion of taxpayer money to the junk food and fast food industries every year to make the (childhood obesity) epidemic worse.,"consumer-safety,food-safety,health-care,taxes",dennis-kucinich,democrat,test
+6035.json,half-true,"Massachusetts under Gov. Mitt Romney initially ranked last among states in job growth, but by the end of his governorship, we were in the middle of the pack.","economy,history,jobs,states",eric-fehrnstrom,republican,test
+4710.json,half-true,Says Clackamas County has more urban renewal debt than all the other Oregon counties combined.,county-government,john-lee,republican,test
+2135.json,false,"I remember one of [Curt Schillings] teammates said he painted his sock, the bloody sock.","baseball,economy,pop-culture",lincoln-chafee,democrat,test
+2723.json,pants-fire,Congressman Kasich wants to use our tax dollars to give secret bonuses to his corporate friends.,"economy,jobs,message-machine,state-budget,transparency",ted-strickland,democrat,test
+4715.json,half-true,"Says Mitt Romneys housing policy is, Dont try and stop the foreclosure process. Let it run its course and hit the bottom.","housing,message-machine-2012",democratic-national-committee,none,test
+9235.json,pants-fire,The Bundy Ranch deal is all about Nevada Sen. Harry Reid using federal violence to take peoples land in his state so he can package it to re-sell it to the Chinese.,"china,environment,government-regulation",blog-posting,none,test
+12571.json,mostly-true,People have a constitutional right to have semiautomatic rifles.,"guns,legal-issues,supreme-court",paul-ryan,republican,test
+12791.json,barely-true,Says Gov. Mike Pence and Rep. Mike Coffman take the same positions on a number of things... Coffman and Pence oppose equal rights for LGBT Americans.,gays-and-lesbians,democratic-congressional-campaign-committee,democrat,test
+12167.json,barely-true,Says his free public university tuition program is paid for by a tax on Wall Streets speculation.,education,bernie-s,independent,test
+11711.json,true,Says American polling shows Russian President Vladimir Putin has an 80 percent approval rating.,polls,donald-trump,republican,test
+13487.json,barely-true,"Says that when San Francisco banned plastic grocery bags, you saw the number of instances of people going to the ER with things like salmonella and other related illnesses spike.","environment,health-care,public-health",james-quintero,none,test
+7545.json,barely-true,Says bag litter increased after San Francisco banned single-use shopping bags.,environment,drew-springer,republican,test
+1106.json,true,All private healthcare plans must conform to government rules to participate in a Healthcare Exchange.,"health-care,market-regulation",chain-email,none,test
+12279.json,mostly-true,"In last weeks debate, Bernie questioned Hillarys commitment to fighting climate change because a whopping 0.2 percent of the money given to our campaign has come from employees of oil and gas companies. Not even 2 percent, mind you: 0.2 percent.","campaign-finance,energy,environment",robby-mook,democrat,test
+7165.json,half-true,The increase in the current state budget was greater than the inflation rate and the rate of population growth in Georgia.,state-budget,libertarian-party-georgia,libertarian,test
+6816.json,barely-true,"Under Barack Obama, the U.S. now has the lowest workforce since (President Jimmy) Carter.","economy,history,jobs,message-machine-2012",american-future-fund,organization,test
+9231.json,false,"More than 1,000 American soldiers have lost their lives in Afghanistan in the last 27 months. This is more than the combined total of the nine years before.","afghanistan,military",chain-email,none,test
+7211.json,false,The problem with raising tax rates on the wealthiest Americans is that more than half of them are small business owners.,"deficit,federal-budget,taxes",john-boehner,republican,test
+7268.json,mostly-true,Nearly a quarter of all adults in this state have some college credit without a degree.,"economy,education,jobs",scott-walker,republican,test
+1385.json,half-true,"Says he brought 1,200 jobs to Texas by moving his factories here from China.","economy,job-accomplishments",farouk-shami,democrat,test
+8944.json,mostly-true,"Chris Christie helped funnel $6 million in federal Hurricane Sandy money to a senior center in Belleville, N.J., a place that suffered no damage.","housing,weather",lawrence-odonnell,none,test
+10749.json,barely-true,$29 is what families on SNAP (i.e. food stamps) have to live on for a week.,"federal-budget,hunger",gwyneth-paltrow,democrat,test
+7667.json,barely-true,"The Manchin-Toomey amendment would have criminalized certain private transfers of firearms between honest citizens, requiring lifelong friends, neighbors and some family members to get government approval.","corrections-and-updates,guns",national-rifle-association,none,test
+4208.json,false,This is the first time in the history that weve had the raising of a debt limit also with spending cuts.,"federal-budget,history",allen-west,republican,test
+10293.json,mostly-true,Mike Martinez has voted to raise taxes and utility rates while ending free bus service for seniors.,"taxes,transportation,voting-record",steve-adler,democrat,test
+4708.json,true,The collective net worth of Americans has taken a $5.5 trillion hit ... mainly due to plummeting home values.,"economy,housing",nina-turner,democrat,test
+1739.json,half-true,Says the American public overwhelmingly opposed Democratic-steered health care plan.,health-care,kay-bailey-hutchison,republican,test
+8961.json,half-true,"Chained CPI would save $1 trillion in the second decade off the federal budget debt, a report shows.","economy,federal-budget,medicare,social-security",david-brooks,none,test
+631.json,pants-fire,"Barack Obama ""rejects everyone white, including his mother and his grandparents.""",candidates-biography,jerome-corsi,constitution-party,test
+2811.json,mostly-true,$65 billion would be added to the deficit if we keep the cuts for people on the highest incomes.,"federal-budget,taxes",mark-warner,democrat,test
+12012.json,mostly-true,"A single mother of two cant qualify for basic healthcare through Medicaid if she makes more than $3,504 dollars a year.",health-care,chris-koster,democrat,test
+2570.json,half-true,"According to independent analysis, unfair trade deals have resulted in the loss of over 64,000 jobs in Wisconsin ... But Ron Johnson favors those deals.","jobs,message-machine,trade",russ-feingold,democrat,test
+3575.json,true,On federal stimulus money for expanding rail service.,"federal-budget,state-budget,stimulus,transportation",scott-walker,republican,test
+12855.json,true,"Illinois suffered 1,652 overdose deaths in 2014 ... of which 40 percent were associated with heroin. Illinois is ranked number one in the nation for a decline in treatment capacity between 2007 and 2012, and is now ranked the third worst in the country for state-funded treatment capacity.",drugs,richard-durbin,democrat,test
+5710.json,false,General Motors is the largest corporation in the world again.,"corporations,economy",joe-biden,democrat,test
+11327.json,mostly-true,"We had a three-hour debate, no discussion about the national debt, very little about the economy.","debates,elections",marco-rubio,republican,test

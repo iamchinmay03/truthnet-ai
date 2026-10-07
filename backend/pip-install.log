@@ -1,0 +1,58 @@
+Collecting fastapi==0.115.6 (from -r requirements.txt (line 1))
+  Using cached fastapi-0.115.6-py3-none-any.whl.metadata (27 kB)
+Collecting uvicorn==0.32.1 (from uvicorn[standard]==0.32.1->-r requirements.txt (line 2))
+  Using cached uvicorn-0.32.1-py3-none-any.whl.metadata (6.6 kB)
+Collecting sqlalchemy==2.0.36 (from -r requirements.txt (line 3))
+  Using cached SQLAlchemy-2.0.36-py3-none-any.whl.metadata (9.7 kB)
+Collecting pydantic==2.10.6 (from -r requirements.txt (line 4))
+  Using cached pydantic-2.10.6-py3-none-any.whl.metadata (30 kB)
+Collecting pydantic-settings==2.6.1 (from -r requirements.txt (line 5))
+  Using cached pydantic_settings-2.6.1-py3-none-any.whl.metadata (3.5 kB)
+Collecting python-dotenv==1.1.0 (from -r requirements.txt (line 6))
+  Using cached python_dotenv-1.1.0-py3-none-any.whl.metadata (24 kB)
+Collecting python-multipart==0.0.9 (from -r requirements.txt (line 7))
+  Using cached python_multipart-0.0.9-py3-none-any.whl.metadata (2.5 kB)
+Collecting httpx==0.28.1 (from -r requirements.txt (line 8))
+  Using cached httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+Collecting pandas==2.2.3 (from -r requirements.txt (line 9))
+  Using cached pandas-2.2.3.tar.gz (4.4 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Preparing metadata (pyproject.toml) did not run successfully.
+  exit code: 1
+  
+  [12 lines of output]
+  + meson setup C:\Users\chinm\AppData\Local\Temp\pip-install-yxqmw9q9\pandas_6cf5246198784ed8bac143c78b52fcea C:\Users\chinm\AppData\Local\Temp\pip-install-yxqmw9q9\pandas_6cf5246198784ed8bac143c78b52fcea\.mesonpy-554xnftd\build -Dbuildtype=release -Db_ndebug=if-release -Db_vscrt=md --vsenv --native-file=C:\Users\chinm\AppData\Local\Temp\pip-install-yxqmw9q9\pandas_6cf5246198784ed8bac143c78b52fcea\.mesonpy-554xnftd\build\meson-python-native-file.ini
+  The Meson build system
+  Version: 1.2.1
+  Source dir: C:\Users\chinm\AppData\Local\Temp\pip-install-yxqmw9q9\pandas_6cf5246198784ed8bac143c78b52fcea
+  Build dir: C:\Users\chinm\AppData\Local\Temp\pip-install-yxqmw9q9\pandas_6cf5246198784ed8bac143c78b52fcea\.mesonpy-554xnftd\build
+  Build type: native build
+  Project name: pandas
+  Project version: 2.2.3
+  
+  ..\..\meson.build:2:0: ERROR: Could not parse vswhere.exe output
+  
+  A full log can be found at C:\Users\chinm\AppData\Local\Temp\pip-install-yxqmw9q9\pandas_6cf5246198784ed8bac143c78b52fcea\.mesonpy-554xnftd\build\meson-logs\meson-log.txt
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+
+[notice] A new release of pip is available: 25.3 -> 26.2.1
+[notice] To update, run: d:\SNA project\truthnet-ai\backend\.venv\Scripts\python.exe -m pip install --upgrade pip
+error: metadata-generation-failed
+
+Encountered error while generating package metadata.
+
+pandas
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
